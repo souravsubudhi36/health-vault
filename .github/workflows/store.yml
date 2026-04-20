@@ -1,0 +1,37 @@
+name: Store Health Data
+
+# Triggered immediately when iPhone sends a sync via the Cloudflare Worker.
+# Only stores the raw file — no processing — to avoid concurrency conflicts.
+
+on:
+  repository_dispatch:
+    types: [health-sync]
+
+jobs:
+  store:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Decode and save incoming file
+        run: |
+          mkdir -p health/apple-health/incoming
+          echo "${{ github.event.client_payload.data }}" \
+            | base64 --decode \
+            > "health/apple-health/incoming/${{ github.event.client_payload.filename }}"
+          echo "Saved: ${{ github.event.client_payload.filename }}"
+
+      - name: Commit raw file
+        run: |
+          git config user.email "health-bot@noreply.github.com"
+          git config user.name "Health Bot"
+          git add health/apple-health/incoming/
+          git diff --staged --quiet \
+            || git commit -m "store: ${{ github.event.client_payload.filename }}"
+          git push

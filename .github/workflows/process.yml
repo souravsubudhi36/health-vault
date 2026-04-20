@@ -1,0 +1,56 @@
+name: Process Health Data
+
+# Runs on a schedule twice a day.
+# Picks up any files in incoming/, parses them to JSON,
+# then regenerates all Obsidian daily notes.
+
+on:
+  schedule:
+    - cron: "30 1 * * *"   # 7:00 AM IST  (UTC+5:30)
+    - cron: "30 13 * * *"  # 7:00 PM IST  (UTC+5:30)
+  workflow_dispatch:        # allow manual trigger for testing
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check for incoming files
+        id: check
+        run: |
+          count=$(find health/apple-health/incoming -name "*.txt" 2>/dev/null | wc -l | tr -d ' ')
+          echo "count=$count" >> $GITHUB_OUTPUT
+          echo "Incoming files: $count"
+
+      - name: Parse incoming health data
+        if: steps.check.outputs.count != '0'
+        run: |
+          echo "Parsing ${{ steps.check.outputs.count }} file(s)…"
+          python scripts/parse_health.py
+
+      - name: Generate Obsidian daily notes
+        run: |
+          echo "Generating Obsidian notes…"
+          python scripts/generate_notes.py
+
+      - name: Commit and push results
+        run: |
+          git config user.email "health-bot@noreply.github.com"
+          git config user.name "Health Bot"
+          git add health/ vault/
+          git diff --staged --quiet \
+            || git commit -m "health update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
