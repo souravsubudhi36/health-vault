@@ -1,0 +1,79 @@
+SLEEP_DATA
+===VALUE===
+Core
+Awake
+Core
+Awake
+Core
+Awake
+Core
+REM
+Awake
+Core
+Deep
+Awake
+Core
+REM
+Awake
+Core
+REM
+Awake
+Core
+Awake
+Core
+REM
+Core
+Awake
+Core
+===START_DATE===
+21 Apr 2026 at 1:25 AM
+21 Apr 2026 at 1:30 AM
+21 Apr 2026 at 1:31 AM
+21 Apr 2026 at 1:58 AM
+21 Apr 2026 at 1:59 AM
+21 Apr 2026 at 2:01 AM
+21 Apr 2026 at 2:02 AM
+21 Apr 2026 at 2:22 AM
+21 Apr 2026 at 2:29 AM
+21 Apr 2026 at 2:31 AM
+21 Apr 2026 at 2:53 AM
+21 Apr 2026 at 3:27 AM
+21 Apr 2026 at 3:28 AM
+21 Apr 2026 at 4:48 AM
+21 Apr 2026 at 5:06 AM
+21 Apr 2026 at 5:08 AM
+21 Apr 2026 at 6:08 AM
+21 Apr 2026 at 6:26 AM
+21 Apr 2026 at 6:27 AM
+21 Apr 2026 at 7:17 AM
+21 Apr 2026 at 7:17 AM
+21 Apr 2026 at 7:31 AM
+21 Apr 2026 at 7:54 AM
+21 Apr 2026 at 8:00 AM
+21 Apr 2026 at 8:05 AM
+===END_DATE===
+21 Apr 2026 at 1:30 AM
+21 Apr 2026 at 1:31 AM
+21 Apr 2026 at 1:58 AM
+21 Apr 2026 at 1:59 AM
+21 Apr 2026 at 2:01 AM
+21 Apr 2026 at 2:02 AM
+21 Apr 2026 at 2:22 AM
+21 Apr 2026 at 2:29 AM
+21 Apr 2026 at 2:31 AM
+21 Apr 2026 at 2:53 AM
+21 Apr 2026 at 3:27 AM
+21 Apr 2026 at 3:28 AM
+21 Apr 2026 at 4:48 AM
+21 Apr 2026 at 5:06 AM
+21 Apr 2026 at 5:08 AM
+21 Apr 2026 at 6:08 AM
+21 Apr 2026 at 6:26 AM
+21 Apr 2026 at 6:27 AM
+21 Apr 2026 at 7:17 AM
+21 Apr 2026 at 7:17 AM
+21 Apr 2026 at 7:31 AM
+21 Apr 2026 at 7:54 AM
+21 Apr 2026 at 8:00 AM
+21 Apr 2026 at 8:05 AM
+21 Apr 2026 at 8:51 AM
