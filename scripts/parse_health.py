@@ -28,22 +28,47 @@ PARSED_DIR = Path("health/apple-health/parsed")
 # ---------------------------------------------------------------------------
 
 def parse_sections(raw_text: str) -> dict:
-    """Split plain-text into a dict of section_name → [lines]."""
-    sections: dict = {}
-    current_section = None
-    current_lines: list = []
+    """Split plain-text into a dict of section_name → [lines].
 
-    for line in raw_text.split("\n"):
+    Handles two formats:
+      Format A (with explicit ===VALUE=== marker):
+          DATA_TYPE
+          ===VALUE===
+          val1
+          ===START_DATE===
+          ...
+
+      Format B (values immediately after header, no ===VALUE===):
+          DATA_TYPE
+          val1
+          val2
+          ===START_DATE===
+          ...
+    """
+    lines = raw_text.split("\n")
+    sections: dict = {}
+    # Default section is VALUE so pre-marker lines are captured automatically
+    current_section = "VALUE"
+    current_lines: list = []
+    header_skipped = False
+
+    for line in lines:
         stripped = line.strip()
+        if not stripped:
+            continue
+        # Skip the very first non-empty line — it's the data type header
+        if not header_skipped:
+            header_skipped = True
+            continue
         if stripped.startswith("===") and stripped.endswith("===") and len(stripped) > 6:
-            if current_section is not None:
+            if current_lines:
                 sections[current_section] = current_lines
             current_section = stripped.strip("=").strip()
             current_lines = []
-        elif current_section is not None and stripped:
+        else:
             current_lines.append(stripped)
 
-    if current_section is not None:
+    if current_lines:
         sections[current_section] = current_lines
 
     return sections
@@ -52,13 +77,20 @@ def parse_sections(raw_text: str) -> dict:
 def parse_dt(s: str):
     """Try multiple datetime formats; return datetime or None."""
     formats = [
+        # iPhone locale: "21 Apr 2026 at 1:25 AM"
+        "%d %b %Y at %I:%M %p",
+        "%d %b %Y at %I:%M:%S %p",
+        # US locale: "Apr 21, 2026 at 1:25 AM"
         "%b %d, %Y at %I:%M %p",
         "%b %d, %Y at %I:%M:%S %p",
         "%b %d, %Y, %I:%M %p",
+        # ISO formats
         "%Y-%m-%d %H:%M:%S",
         "%Y-%m-%dT%H:%M:%S",
     ]
-    s = s.strip()
+    # Normalize unicode spaces — iOS uses narrow no-break space (U+202F)
+    # before AM/PM which breaks strptime
+    s = s.strip().replace("\u202f", " ").replace("\u00a0", " ")
     for fmt in formats:
         try:
             return datetime.strptime(s, fmt)

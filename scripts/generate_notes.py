@@ -218,7 +218,7 @@ def main():
     sleep = sleep_by_date(load("sleep_data"))
     hrv = by_date(load("heartratevariabilitysdnn"), agg="avg")
     rhr = by_date(load("restingheartrate"), agg="avg")
-    steps = by_date(load("stepcount"), agg="sum")
+    steps = by_date(load("step_count"), agg="sum")
     weight = by_date(load("bodymass"), agg="last")
     active_energy = by_date(load("activeenergyburned"), agg="sum")
     blood_oxygen = by_date(load("oxygensaturation"), agg="avg")
