@@ -48,6 +48,39 @@ REM
 Core
 REM
 Core
+Asleep
+Awake
+Asleep
+Awake
+Asleep
+Awake
+Asleep
+Core
+Awake
+Core
+Deep
+Core
+Deep
+Core
+Deep
+Core
+Deep
+Core
+REM
+Awake
+Core
+REM
+Core
+Deep
+Core
+Deep
+Core
+Deep
+Core
+REM
+Awake
+Core
+Core
 ===START_DATE===
 21 Apr 2026 at 1:25 AM
 21 Apr 2026 at 1:30 AM
@@ -97,6 +130,39 @@ Core
 22 Apr 2026 at 5:40 AM
 22 Apr 2026 at 6:01 AM
 22 Apr 2026 at 6:12 AM
+22 Apr 2026 at 8:39 PM
+22 Apr 2026 at 9:27 PM
+22 Apr 2026 at 9:29 PM
+22 Apr 2026 at 9:55 PM
+22 Apr 2026 at 9:56 PM
+22 Apr 2026 at 9:57 PM
+22 Apr 2026 at 10:01 PM
+23 Apr 2026 at 12:24 AM
+23 Apr 2026 at 12:32 AM
+23 Apr 2026 at 12:33 AM
+23 Apr 2026 at 12:45 AM
+23 Apr 2026 at 12:46 AM
+23 Apr 2026 at 12:49 AM
+23 Apr 2026 at 12:52 AM
+23 Apr 2026 at 12:56 AM
+23 Apr 2026 at 12:57 AM
+23 Apr 2026 at 12:58 AM
+23 Apr 2026 at 1:14 AM
+23 Apr 2026 at 1:28 AM
+23 Apr 2026 at 1:30 AM
+23 Apr 2026 at 1:32 AM
+23 Apr 2026 at 1:34 AM
+23 Apr 2026 at 1:49 AM
+23 Apr 2026 at 2:16 AM
+23 Apr 2026 at 2:23 AM
+23 Apr 2026 at 2:25 AM
+23 Apr 2026 at 2:40 AM
+23 Apr 2026 at 2:58 AM
+23 Apr 2026 at 3:14 AM
+23 Apr 2026 at 3:18 AM
+23 Apr 2026 at 3:43 AM
+23 Apr 2026 at 3:45 AM
+23 Apr 2026 at 4:05 AM
 ===END_DATE===
 21 Apr 2026 at 1:30 AM
 21 Apr 2026 at 1:31 AM
@@ -146,3 +212,36 @@ Core
 22 Apr 2026 at 6:01 AM
 22 Apr 2026 at 6:12 AM
 22 Apr 2026 at 6:37 AM
+22 Apr 2026 at 9:27 PM
+22 Apr 2026 at 9:29 PM
+22 Apr 2026 at 9:55 PM
+22 Apr 2026 at 9:56 PM
+22 Apr 2026 at 9:57 PM
+22 Apr 2026 at 10:01 PM
+22 Apr 2026 at 10:26 PM
+23 Apr 2026 at 12:32 AM
+23 Apr 2026 at 12:33 AM
+23 Apr 2026 at 12:45 AM
+23 Apr 2026 at 12:46 AM
+23 Apr 2026 at 12:49 AM
+23 Apr 2026 at 12:52 AM
+23 Apr 2026 at 12:56 AM
+23 Apr 2026 at 12:57 AM
+23 Apr 2026 at 12:58 AM
+23 Apr 2026 at 1:14 AM
+23 Apr 2026 at 1:28 AM
+23 Apr 2026 at 1:30 AM
+23 Apr 2026 at 1:32 AM
+23 Apr 2026 at 1:34 AM
+23 Apr 2026 at 1:49 AM
+23 Apr 2026 at 2:16 AM
+23 Apr 2026 at 2:23 AM
+23 Apr 2026 at 2:25 AM
+23 Apr 2026 at 2:40 AM
+23 Apr 2026 at 2:58 AM
+23 Apr 2026 at 3:14 AM
+23 Apr 2026 at 3:18 AM
+23 Apr 2026 at 3:43 AM
+23 Apr 2026 at 3:45 AM
+23 Apr 2026 at 4:04 AM
+23 Apr 2026 at 6:34 AM
