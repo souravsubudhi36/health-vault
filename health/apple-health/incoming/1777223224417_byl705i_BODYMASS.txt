@@ -1,6 +1,0 @@
-BODYMASS
-===VALUE===
-
-===START_DATE===
-
-===END_DATE===
