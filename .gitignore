@@ -1,6 +1,13 @@
 .DS_Store
 __pycache__/
 *.pyc
+*.mp4
+*.mov
+*.MOV
+*.MP4
+.venv/
+sessions/incoming/*.mp4
+sessions/incoming/*.mov
 .obsidian/workspace
 .obsidian/workspace.json
 .obsidian/plugins/obsidian-git/data.json
