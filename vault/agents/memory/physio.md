@@ -36,3 +36,8 @@ _Physio agent appends dated entries here._
 **
 - 4-day data gap (04-27 to 04-30) — note whether this correlates with travel, tournament, or device issue; if recurring around high-stress periods it's a behavioral pattern worth addressing.
 - Once data resumes, watch for a "rebound dip": after the 04-26 HRV peak (82ms), prior pattern suggests we may see a sharp drop if training load was high during the blackout.
+
+### 2026-05-01
+**
+- Second data blackout in ~2 weeks (04-18/19 partial, now 04-27 to 05-01). Pattern is forming — need to clarify root cause (travel, tournament, device, motivation) at next check-in; this is now a tracked behavioral issue, not a one-off.
+- Still owe a baseline calculation once we hit 14 consecutive days of clean data — currently impossible due to gaps. Reset the 2-week baseline window to start from the next uninterrupted stretch.
