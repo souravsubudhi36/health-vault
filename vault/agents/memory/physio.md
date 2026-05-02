@@ -41,3 +41,8 @@ _Physio agent appends dated entries here._
 **
 - Second data blackout in ~2 weeks (04-18/19 partial, now 04-27 to 05-01). Pattern is forming — need to clarify root cause (travel, tournament, device, motivation) at next check-in; this is now a tracked behavioral issue, not a one-off.
 - Still owe a baseline calculation once we hit 14 consecutive days of clean data — currently impossible due to gaps. Reset the 2-week baseline window to start from the next uninterrupted stretch.
+
+### 2026-05-02
+**
+- Workload spike on 04-30 (25,864 steps — likely tournament, travel, or long match day) followed by truncated sleep — first observed instance of high-load-then-poor-recovery sequence. Watch for injury/illness in next 72h.
+- Data gaps now correlate twice with high-activity periods (04-27 to 05-01 spanning the 25k step day). Hypothesis forming: **device compliance drops precisely when recovery monitoring matters most.** Address directly at next in-person session.
