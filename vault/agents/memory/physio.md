@@ -46,3 +46,8 @@ _Physio agent appends dated entries here._
 **
 - Workload spike on 04-30 (25,864 steps — likely tournament, travel, or long match day) followed by truncated sleep — first observed instance of high-load-then-poor-recovery sequence. Watch for injury/illness in next 72h.
 - Data gaps now correlate twice with high-activity periods (04-27 to 05-01 spanning the 25k step day). Hypothesis forming: **device compliance drops precisely when recovery monitoring matters most.** Address directly at next in-person session.
+
+### 2026-05-03
+**
+- **Confirmed pattern (2nd instance):** data blackouts coincide with high-load periods (04-30: 25k steps inside the 04-27→05-01 gap). This is now a recurring behavioral signal, not coincidence — raise at next in-person session as a non-negotiable compliance item.
+- **05-01 sleep (4.1h) post 25k-step day** is the first directly observable high-load → poor-recovery sequence in our log. Track the next 72h closely for soft-tissue complaints, illness, or mood/energy dip — this is the window where overreaching shows up.
