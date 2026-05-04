@@ -51,3 +51,8 @@ _Physio agent appends dated entries here._
 **
 - **Confirmed pattern (2nd instance):** data blackouts coincide with high-load periods (04-30: 25k steps inside the 04-27→05-01 gap). This is now a recurring behavioral signal, not coincidence — raise at next in-person session as a non-negotiable compliance item.
 - **05-01 sleep (4.1h) post 25k-step day** is the first directly observable high-load → poor-recovery sequence in our log. Track the next 72h closely for soft-tissue complaints, illness, or mood/energy dip — this is the window where overreaching shows up.
+
+### 2026-05-04
+**
+- Today is **Day 4 of the 72h post-load watch window** (load spike 04-30, poor sleep 05-01). Document any complaints surfacing today against this timeline — first real test of the high-load → injury-risk hypothesis.
+- Baseline calculation still on hold; reset the 14-day clean-data window to begin **whenever the next uninterrupted stretch starts**. Currently 0/14.
