@@ -56,3 +56,8 @@ _Physio agent appends dated entries here._
 **
 - Today is **Day 4 of the 72h post-load watch window** (load spike 04-30, poor sleep 05-01). Document any complaints surfacing today against this timeline — first real test of the high-load → injury-risk hypothesis.
 - Baseline calculation still on hold; reset the 14-day clean-data window to begin **whenever the next uninterrupted stretch starts**. Currently 0/14.
+
+### 2026-05-05
+**
+- Day 5 of post-load watch window (load spike 04-30 → poor sleep 05-01); without biometrics or subjective complaints logged, the high-load→injury hypothesis remains untested. Capture today's subjective data manually so this window isn't a total loss.
+- Baseline window remains 0/14. Reset starts the first night the device is worn with sleep + HRV + RHR all populated. Track consecutive-clean-days as its own metric going forward.
