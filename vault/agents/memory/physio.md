@@ -61,3 +61,8 @@ _Physio agent appends dated entries here._
 **
 - Day 5 of post-load watch window (load spike 04-30 → poor sleep 05-01); without biometrics or subjective complaints logged, the high-load→injury hypothesis remains untested. Capture today's subjective data manually so this window isn't a total loss.
 - Baseline window remains 0/14. Reset starts the first night the device is worn with sleep + HRV + RHR all populated. Track consecutive-clean-days as its own metric going forward.
+
+### 2026-05-06
+**
+- **Compliance is now the dominant clinical issue, not physiology.** 10 of last 14 days have missing or partial biometrics; baseline calculation has been impossible for 3 weeks. Escalate at next session — frame as performance-critical, not optional.
+- Consecutive-clean-days metric: **0/14**. Will not advance until sleep + HRV + RHR all populate on the same date. Track this counter daily as the leading indicator of program viability.
