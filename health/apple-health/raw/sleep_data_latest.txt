@@ -1,59 +1,6 @@
 SLEEP_DATA
 ===VALUE===
 Core
-Awake
-Core
-Deep
-Core
-Deep
-Core
-REM
-Awake
-Core
-REM
-Core
-Deep
-Core
-Deep
-Core
-Deep
-Core
-REM
-Core
-REM
-Awake
-Core
-REM
-Core
-Awake
-Core
-Awake
-Core
-Awake
-Core
-REM
-Core
-REM
-Core
-Awake
-Core
-Awake
-Core
-Deep
-Core
-REM
-Core
-REM
-Core
-Deep
-Core
-REM
-Awake
-REM
-Core
-REM
-Core
-Core
 Deep
 Core
 Awake
@@ -72,59 +19,6 @@ REM
 Awake
 Core
 ===START_DATE===
-26 Apr 2026 at 3:17 AM
-26 Apr 2026 at 3:18 AM
-26 Apr 2026 at 3:19 AM
-26 Apr 2026 at 3:31 AM
-26 Apr 2026 at 3:38 AM
-26 Apr 2026 at 3:43 AM
-26 Apr 2026 at 3:48 AM
-26 Apr 2026 at 4:01 AM
-26 Apr 2026 at 4:22 AM
-26 Apr 2026 at 4:22 AM
-26 Apr 2026 at 4:27 AM
-26 Apr 2026 at 4:32 AM
-26 Apr 2026 at 4:52 AM
-26 Apr 2026 at 5:01 AM
-26 Apr 2026 at 5:10 AM
-26 Apr 2026 at 5:16 AM
-26 Apr 2026 at 5:21 AM
-26 Apr 2026 at 5:48 AM
-26 Apr 2026 at 5:56 AM
-26 Apr 2026 at 6:12 AM
-26 Apr 2026 at 7:25 AM
-26 Apr 2026 at 7:46 AM
-26 Apr 2026 at 7:47 AM
-26 Apr 2026 at 7:55 AM
-26 Apr 2026 at 7:57 AM
-26 Apr 2026 at 8:12 AM
-26 Apr 2026 at 9:00 AM
-26 Apr 2026 at 9:12 AM
-26 Apr 2026 at 9:17 AM
-26 Apr 2026 at 9:32 AM
-26 Apr 2026 at 9:35 AM
-26 Apr 2026 at 9:57 AM
-26 Apr 2026 at 10:39 AM
-26 Apr 2026 at 11:38 AM
-27 Apr 2026 at 2:43 AM
-27 Apr 2026 at 2:47 AM
-27 Apr 2026 at 2:52 AM
-27 Apr 2026 at 3:08 AM
-27 Apr 2026 at 3:09 AM
-27 Apr 2026 at 3:28 AM
-27 Apr 2026 at 3:41 AM
-27 Apr 2026 at 4:07 AM
-27 Apr 2026 at 4:10 AM
-27 Apr 2026 at 4:18 AM
-27 Apr 2026 at 4:23 AM
-27 Apr 2026 at 4:47 AM
-27 Apr 2026 at 5:07 AM
-27 Apr 2026 at 5:31 AM
-27 Apr 2026 at 5:37 AM
-27 Apr 2026 at 5:38 AM
-27 Apr 2026 at 5:55 AM
-27 Apr 2026 at 6:07 AM
-27 Apr 2026 at 6:08 AM
 1 May 2026 at 2:20 AM
 1 May 2026 at 2:40 AM
 1 May 2026 at 2:44 AM
@@ -144,59 +38,6 @@ Core
 1 May 2026 at 5:42 AM
 1 May 2026 at 5:43 AM
 ===END_DATE===
-26 Apr 2026 at 3:18 AM
-26 Apr 2026 at 3:19 AM
-26 Apr 2026 at 3:31 AM
-26 Apr 2026 at 3:38 AM
-26 Apr 2026 at 3:43 AM
-26 Apr 2026 at 3:48 AM
-26 Apr 2026 at 4:01 AM
-26 Apr 2026 at 4:22 AM
-26 Apr 2026 at 4:22 AM
-26 Apr 2026 at 4:27 AM
-26 Apr 2026 at 4:32 AM
-26 Apr 2026 at 4:52 AM
-26 Apr 2026 at 5:01 AM
-26 Apr 2026 at 5:10 AM
-26 Apr 2026 at 5:16 AM
-26 Apr 2026 at 5:21 AM
-26 Apr 2026 at 5:48 AM
-26 Apr 2026 at 5:56 AM
-26 Apr 2026 at 6:12 AM
-26 Apr 2026 at 7:25 AM
-26 Apr 2026 at 7:46 AM
-26 Apr 2026 at 7:47 AM
-26 Apr 2026 at 7:55 AM
-26 Apr 2026 at 7:57 AM
-26 Apr 2026 at 8:12 AM
-26 Apr 2026 at 9:00 AM
-26 Apr 2026 at 9:12 AM
-26 Apr 2026 at 9:17 AM
-26 Apr 2026 at 9:32 AM
-26 Apr 2026 at 9:35 AM
-26 Apr 2026 at 9:57 AM
-26 Apr 2026 at 10:39 AM
-26 Apr 2026 at 11:38 AM
-26 Apr 2026 at 12:19 PM
-27 Apr 2026 at 2:47 AM
-27 Apr 2026 at 2:52 AM
-27 Apr 2026 at 3:08 AM
-27 Apr 2026 at 3:09 AM
-27 Apr 2026 at 3:28 AM
-27 Apr 2026 at 3:41 AM
-27 Apr 2026 at 4:07 AM
-27 Apr 2026 at 4:10 AM
-27 Apr 2026 at 4:18 AM
-27 Apr 2026 at 4:23 AM
-27 Apr 2026 at 4:47 AM
-27 Apr 2026 at 5:07 AM
-27 Apr 2026 at 5:31 AM
-27 Apr 2026 at 5:37 AM
-27 Apr 2026 at 5:38 AM
-27 Apr 2026 at 5:55 AM
-27 Apr 2026 at 6:07 AM
-27 Apr 2026 at 6:08 AM
-27 Apr 2026 at 7:00 AM
 1 May 2026 at 2:40 AM
 1 May 2026 at 2:44 AM
 1 May 2026 at 2:48 AM
