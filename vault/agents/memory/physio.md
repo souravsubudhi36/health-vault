@@ -66,3 +66,8 @@ _Physio agent appends dated entries here._
 **
 - **Compliance is now the dominant clinical issue, not physiology.** 10 of last 14 days have missing or partial biometrics; baseline calculation has been impossible for 3 weeks. Escalate at next session — frame as performance-critical, not optional.
 - Consecutive-clean-days metric: **0/14**. Will not advance until sleep + HRV + RHR all populate on the same date. Track this counter daily as the leading indicator of program viability.
+
+### 2026-05-07
+**
+- **Consecutive-clean-days: 0/14.** Day 7 of the current blackout streak — longest unbroken gap since tracking began. Compliance has crossed from "concerning pattern" to "program-blocking issue."
+- The 04-30 load spike → 05-01 poor sleep sequence is now 7 days out with no follow-up biometrics or complaints logged; the high-load→injury-risk hypothesis is effectively untestable for this cycle. Close it out and reset on the next clean data stretch.
