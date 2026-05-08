@@ -71,3 +71,8 @@ _Physio agent appends dated entries here._
 **
 - **Consecutive-clean-days: 0/14.** Day 7 of the current blackout streak — longest unbroken gap since tracking began. Compliance has crossed from "concerning pattern" to "program-blocking issue."
 - The 04-30 load spike → 05-01 poor sleep sequence is now 7 days out with no follow-up biometrics or complaints logged; the high-load→injury-risk hypothesis is effectively untestable for this cycle. Close it out and reset on the next clean data stretch.
+
+### 2026-05-08
+**
+- **Sleep pattern is the clearest signal we have right now and it is deteriorating:** 3 of 11 logged nights <5h, bedtimes consistently 02:00–03:48. Even without HRV, this alone justifies a Modified Training designation. Chronic sleep restriction at this level (well below 6h for multiple nights) is associated with measurable injury risk increases in athletes — frame this directly at next session.
+- **Consecutive-clean-days: 0/14** (Day 8 of blackout — new record). Closing out the 04-30 load-spike hypothesis as untestable. New tracked metric starting today: **nights with sleep ≥7h in last 14 days** — currently 1/14 (only 04-26). This is now my primary lagging indicator until biometrics resume.
