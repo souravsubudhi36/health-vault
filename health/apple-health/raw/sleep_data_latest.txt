@@ -35,6 +35,27 @@ Awake
 Core
 Awake
 Core
+Core
+Deep
+Core
+Deep
+Core
+REM
+Core
+Deep
+Core
+REM
+Awake
+Core
+Awake
+Core
+Awake
+Core
+Awake
+Core
+Awake
+Core
+REM
 ===START_DATE===
 1 May 2026 at 2:20 AM
 1 May 2026 at 2:40 AM
@@ -71,6 +92,27 @@ Core
 7 May 2026 at 7:37 AM
 7 May 2026 at 8:15 AM
 7 May 2026 at 8:20 AM
+8 May 2026 at 2:39 AM
+8 May 2026 at 3:01 AM
+8 May 2026 at 3:06 AM
+8 May 2026 at 3:17 AM
+8 May 2026 at 3:33 AM
+8 May 2026 at 3:41 AM
+8 May 2026 at 4:08 AM
+8 May 2026 at 4:34 AM
+8 May 2026 at 4:40 AM
+8 May 2026 at 5:28 AM
+8 May 2026 at 6:27 AM
+8 May 2026 at 6:28 AM
+8 May 2026 at 7:01 AM
+8 May 2026 at 7:02 AM
+8 May 2026 at 7:28 AM
+8 May 2026 at 7:29 AM
+8 May 2026 at 7:38 AM
+8 May 2026 at 7:40 AM
+8 May 2026 at 8:19 AM
+8 May 2026 at 8:21 AM
+8 May 2026 at 8:32 AM
 ===END_DATE===
 1 May 2026 at 2:40 AM
 1 May 2026 at 2:44 AM
@@ -107,3 +149,24 @@ Core
 7 May 2026 at 8:15 AM
 7 May 2026 at 8:20 AM
 7 May 2026 at 8:26 AM
+8 May 2026 at 3:01 AM
+8 May 2026 at 3:06 AM
+8 May 2026 at 3:17 AM
+8 May 2026 at 3:33 AM
+8 May 2026 at 3:41 AM
+8 May 2026 at 4:08 AM
+8 May 2026 at 4:34 AM
+8 May 2026 at 4:40 AM
+8 May 2026 at 5:28 AM
+8 May 2026 at 6:27 AM
+8 May 2026 at 6:28 AM
+8 May 2026 at 7:01 AM
+8 May 2026 at 7:02 AM
+8 May 2026 at 7:28 AM
+8 May 2026 at 7:29 AM
+8 May 2026 at 7:38 AM
+8 May 2026 at 7:40 AM
+8 May 2026 at 8:19 AM
+8 May 2026 at 8:21 AM
+8 May 2026 at 8:32 AM
+8 May 2026 at 8:38 AM
