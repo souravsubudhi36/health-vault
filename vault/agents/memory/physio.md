@@ -76,3 +76,8 @@ _Physio agent appends dated entries here._
 **
 - **Sleep pattern is the clearest signal we have right now and it is deteriorating:** 3 of 11 logged nights <5h, bedtimes consistently 02:00–03:48. Even without HRV, this alone justifies a Modified Training designation. Chronic sleep restriction at this level (well below 6h for multiple nights) is associated with measurable injury risk increases in athletes — frame this directly at next session.
 - **Consecutive-clean-days: 0/14** (Day 8 of blackout — new record). Closing out the 04-30 load-spike hypothesis as untestable. New tracked metric starting today: **nights with sleep ≥7h in last 14 days** — currently 1/14 (only 04-26). This is now my primary lagging indicator until biometrics resume.
+
+### 2026-05-09
+**
+- **Sleep ≥7h nights in last 14: 1/14.** Consecutive-clean-days: **0/14** (Day 9). Both metrics are getting worse, not better — this is the trend line to present at next in-person session.
+- First night >5h in 4 days (6.0h on 05-08) — watch whether this is the start of a corrective swing or a one-off; if next 2 nights regress to <5h, escalate to mandatory rest day regardless of training plan.
