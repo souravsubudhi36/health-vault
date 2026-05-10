@@ -81,3 +81,8 @@ _Physio agent appends dated entries here._
 **
 - **Sleep ≥7h nights in last 14: 1/14.** Consecutive-clean-days: **0/14** (Day 9). Both metrics are getting worse, not better — this is the trend line to present at next in-person session.
 - First night >5h in 4 days (6.0h on 05-08) — watch whether this is the start of a corrective swing or a one-off; if next 2 nights regress to <5h, escalate to mandatory rest day regardless of training plan.
+
+### 2026-05-10
+**
+- **Sleep ≥7h nights in last 14: 1/14. Consecutive-clean-days: 0/14 (Day 10).** Both metrics flat or worsening; this is the headline chart for the next in-person session.
+- 05-08 showed unusually high REM (92m / ~26% of total) on a 6h night — classic REM-rebound signature of accumulated sleep debt. Watch whether REM% normalizes as duration climbs; if REM stays elevated >25% for multiple nights, debt is still being repaid and training load should remain conservative.
