@@ -57,3 +57,9 @@ _Coach agent appends dated entries here._
 
 ### 2026-05-10
 **
+
+### 2026-05-11
+**
+- 2026-05-11: First documented session. No prior technical baseline. Today is mechanics-only due to 14-day sleep restriction + biometric blackout. Established that split-step timing and forehand grip selection are the first technical priorities once recovery state allows full training.
+- **Compliance crisis flagged**: 0 sessions logged + 0/14 clean sleep nights + 11-day device blackout = the limiting factor on all development. Headline issue for next in-person review, ahead of any technical work.
+- Need to establish at next session: dominant hand, current forehand grip, current serve motion (continental vs. eastern), baseline rally tolerance.

@@ -86,3 +86,8 @@ _Physio agent appends dated entries here._
 **
 - **Sleep ≥7h nights in last 14: 1/14. Consecutive-clean-days: 0/14 (Day 10).** Both metrics flat or worsening; this is the headline chart for the next in-person session.
 - 05-08 showed unusually high REM (92m / ~26% of total) on a 6h night — classic REM-rebound signature of accumulated sleep debt. Watch whether REM% normalizes as duration climbs; if REM stays elevated >25% for multiple nights, debt is still being repaid and training load should remain conservative.
+
+### 2026-05-11
+**
+- **Consecutive-clean-days: 0/14 (Day 11 of blackout — new record). Sleep ≥7h nights in last 14: 0/14** (the lone 04-26 reading just rolled off the window). Both leading indicators are now at their worst values since tracking began.
+- Sleep window has now contained **zero** ≥7h nights for 14 consecutive days — this crosses from "concerning" into a clinical sleep-restriction pattern. At next in-person session, this is the headline issue ahead of compliance; the two are likely linked (late bedtimes → groggy mornings → forgetting to wear device).
