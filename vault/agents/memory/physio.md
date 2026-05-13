@@ -96,3 +96,8 @@ _Physio agent appends dated entries here._
 **
 - **Sleep ≥7h nights in last 14: 0/14. Consecutive-clean-days: 0/14 (Day 11).** Both metrics at all-time worst; this is the headline for next in-person session.
 - 05-08's 6.0h with 92m REM (~26%) still shows REM-rebound signature — sleep debt is actively being repaid even on the "better" nights, meaning current physiological state is worse than the duration alone suggests. Hold conservative load until REM% normalizes below 25% across 2+ consecutive nights.
+
+### 2026-05-13
+**
+- **Consecutive-clean-days: 0/14 (Day 12 of blackout — new record). Sleep ≥7h nights in last 14: 0/14.** Both leading indicators remain at all-time worst. This is now a 12-day program-blocking issue and the headline for next in-person session — ahead of physiology, ahead of training plan.
+- Pattern hypothesis hardening: **late bedtimes (02–04 AM) → device not worn the next day → blackout** — the two failure modes are likely a single behavioral chain. Next session intervention should target the bedtime, not the device, as the upstream lever.
