@@ -101,3 +101,8 @@ _Physio agent appends dated entries here._
 **
 - **Consecutive-clean-days: 0/14 (Day 12 of blackout — new record). Sleep ≥7h nights in last 14: 0/14.** Both leading indicators remain at all-time worst. This is now a 12-day program-blocking issue and the headline for next in-person session — ahead of physiology, ahead of training plan.
 - Pattern hypothesis hardening: **late bedtimes (02–04 AM) → device not worn the next day → blackout** — the two failure modes are likely a single behavioral chain. Next session intervention should target the bedtime, not the device, as the upstream lever.
+
+### 2026-05-14
+**
+- **Consecutive-clean-days: 0/14 (Day 13 — new record). Sleep ≥7h nights in last 14: 0/14.** Both leading indicators at all-time worst for a 13th straight day. This is no longer a monitoring issue — it is the clinical issue.
+- Bedtime-circadian-delay hypothesis is now the working model: the player isn't sleep-*deprived* in the acute sense (logged nights average ~5h), they are **phase-shifted** (sleeping 03:00–08:30 consistently). Intervention at next in-person session should target a stepwise bedtime advance (15 min/night) rather than asking for an immediate 4-hour shift, which won't stick.
