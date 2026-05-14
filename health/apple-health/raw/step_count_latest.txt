@@ -1,216 +1,5 @@
 STEP_COUNT
 ===VALUE===
-13
-23
-20
-98
-8
-8
-84
-284
-90
-113
-184
-521
-496
-546
-456
-472
-87
-167
-152
-131
-44
-14
-47
-238
-41
-68
-74
-192
-47
-2
-64
-36
-98
-67
-15
-265
-63
-51
-175
-637
-598
-362
-369
-51
-126
-63
-32
-93
-74
-37
-449
-696
-440
-163
-181
-78
-271
-284
-233
-385
-221
-228
-117
-14
-232
-3
-182
-63
-151
-237
-24
-225
-29
-230
-111
-211
-276
-67
-137
-389
-281
-12
-54
-272
-411
-896
-875
-670
-600
-239
-406
-616
-554
-508
-435
-1041
-379
-436
-444
-450
-383
-48
-65
-29
-539
-237
-282
-245
-324
-38
-243
-400
-190
-500
-71
-231
-336
-583
-142
-8
-8
-174
-125
-12
-11
-9
-445
-60
-237
-220
-116
-509
-617
-934
-429
-375
-333
-799
-454
-581
-3
-77
-9
-8
-44
-8
-395
-14
-189
-70
-34
-4
-478
-79
-293
-340
-61
-8
-141
-336
-152
-280
-279
-656
-503
-65
-317
-554
-609
-636
-598
-492
-351
-226
-377
-381
-422
-421
-293
-235
-509
-93
-52
-29
-213
-179
-264
-330
-47
-22
-30
-14
-26
-11
-488
-306
-10
-463
-23
-90
-243
-496
-102
-114
-483
-24
-851
-674
-493
-1053
-416
 1
 228
 9
@@ -500,218 +289,218 @@ STEP_COUNT
 4
 4
 3
+5
+5
+4
+4
+2
+3
+3
+5
+3
+5
+5
+5
+4
+5
+5
+4
+4
+5
+5
+4
+3
+3
+2
+6
+4
+5
+4
+2
+3
+5
+4
+5
+4
+5
+4
+5
+5
+4
+4
+1
+1
+5
+4
+5
+4
+5
+5
+5
+4
+2
+1
+5
+5
+5
+4
+5
+5
+5
+5
+4
+5
+5
+4
+5
+5
+5
+5
+4
+5
+5
+5
+5
+4
+5
+5
+1
+1
+4
+6
+1
+5
+6
+4
+6
+8
+5
+5
+7
+6
+6
+6
+8
+7
+7
+4
+7
+7
+7
+7
+7
+8
+7
+7
+7
+8
+7
+7
+7
+7
+8
+7
+5
+7
+7
+8
+7
+7
+8
+7
+7
+7
+7
+8
+7
+7
+8
+7
+7
+8
+7
+7
+8
+7
+7
+8
+7
+7
+8
+7
+7
+7
+6
+8
+7
+7
+8
+7
+8
+7
+8
+7
+7
+8
+8
+7
+8
+7
+8
+7
+8
+7
+8
+7
+8
+7
+8
+7
+6
+7
+8
+7
+8
+7
+8
+7
+8
+7
+6
+6
+8
+7
+8
+7
+8
+7
+8
+7
+8
+8
+7
+8
+8
+7
+8
+7
+8
+8
+7
+7
+8
+7
+7
+7
+8
+7
+8
+8
+7
+8
+8
+7
 ===START_DATE===
-1 May 2026 at 12:10 AM
-1 May 2026 at 12:29 AM
-1 May 2026 at 12:53 AM
-1 May 2026 at 1:08 AM
-1 May 2026 at 1:51 AM
-1 May 2026 at 5:44 AM
-1 May 2026 at 6:29 AM
-1 May 2026 at 6:40 AM
-1 May 2026 at 6:50 AM
-1 May 2026 at 6:54 AM
-1 May 2026 at 7:04 AM
-1 May 2026 at 7:07 AM
-1 May 2026 at 7:17 AM
-1 May 2026 at 7:27 AM
-1 May 2026 at 7:38 AM
-1 May 2026 at 7:48 AM
-1 May 2026 at 7:58 AM
-1 May 2026 at 7:59 AM
-1 May 2026 at 8:00 AM
-1 May 2026 at 8:01 AM
-1 May 2026 at 8:02 AM
-1 May 2026 at 8:04 AM
-1 May 2026 at 8:05 AM
-1 May 2026 at 8:05 AM
-1 May 2026 at 8:06 AM
-1 May 2026 at 8:08 AM
-1 May 2026 at 8:09 AM
-1 May 2026 at 8:18 AM
-1 May 2026 at 8:20 AM
-1 May 2026 at 10:01 AM
-1 May 2026 at 10:25 AM
-1 May 2026 at 10:37 AM
-1 May 2026 at 11:46 AM
-1 May 2026 at 11:47 AM
-1 May 2026 at 11:57 AM
-1 May 2026 at 11:58 AM
-1 May 2026 at 11:59 AM
-1 May 2026 at 12:00 PM
-1 May 2026 at 12:00 PM
-1 May 2026 at 12:13 PM
-1 May 2026 at 12:13 PM
-1 May 2026 at 12:23 PM
-1 May 2026 at 12:23 PM
-1 May 2026 at 12:34 PM
-1 May 2026 at 12:34 PM
-1 May 2026 at 12:44 PM
-1 May 2026 at 12:45 PM
-1 May 2026 at 12:57 PM
-1 May 2026 at 12:58 PM
-1 May 2026 at 1:07 PM
-1 May 2026 at 1:18 PM
-1 May 2026 at 1:18 PM
-1 May 2026 at 1:28 PM
-1 May 2026 at 1:28 PM
-1 May 2026 at 1:39 PM
-1 May 2026 at 1:52 PM
-1 May 2026 at 2:01 PM
-1 May 2026 at 2:03 PM
-1 May 2026 at 2:10 PM
-1 May 2026 at 2:13 PM
-1 May 2026 at 2:19 PM
-1 May 2026 at 2:24 PM
-1 May 2026 at 2:29 PM
-1 May 2026 at 2:39 PM
-1 May 2026 at 2:52 PM
-1 May 2026 at 3:03 PM
-1 May 2026 at 3:16 PM
-1 May 2026 at 4:24 PM
-1 May 2026 at 4:36 PM
-1 May 2026 at 4:46 PM
-1 May 2026 at 4:58 PM
-1 May 2026 at 5:18 PM
-1 May 2026 at 5:29 PM
-1 May 2026 at 5:33 PM
-1 May 2026 at 5:43 PM
-1 May 2026 at 5:56 PM
-1 May 2026 at 6:06 PM
-1 May 2026 at 6:32 PM
-1 May 2026 at 6:52 PM
-1 May 2026 at 7:34 PM
-1 May 2026 at 7:44 PM
-1 May 2026 at 7:58 PM
-1 May 2026 at 8:30 PM
-1 May 2026 at 8:46 PM
-1 May 2026 at 8:56 PM
-1 May 2026 at 9:06 PM
-1 May 2026 at 9:16 PM
-1 May 2026 at 9:26 PM
-1 May 2026 at 9:36 PM
-1 May 2026 at 9:46 PM
-1 May 2026 at 9:57 PM
-1 May 2026 at 10:07 PM
-1 May 2026 at 10:17 PM
-1 May 2026 at 10:27 PM
-1 May 2026 at 10:37 PM
-1 May 2026 at 10:47 PM
-1 May 2026 at 10:57 PM
-1 May 2026 at 11:30 PM
-1 May 2026 at 11:40 PM
-1 May 2026 at 11:50 PM
-2 May 2026 at 12:01 AM
-2 May 2026 at 12:11 AM
-2 May 2026 at 2:09 AM
-2 May 2026 at 3:25 PM
-2 May 2026 at 3:39 PM
-2 May 2026 at 3:49 PM
-2 May 2026 at 3:59 PM
-2 May 2026 at 4:10 PM
-2 May 2026 at 4:20 PM
-2 May 2026 at 4:31 PM
-2 May 2026 at 4:42 PM
-2 May 2026 at 4:52 PM
-2 May 2026 at 5:02 PM
-2 May 2026 at 5:18 PM
-2 May 2026 at 5:28 PM
-2 May 2026 at 5:42 PM
-2 May 2026 at 5:52 PM
-2 May 2026 at 7:11 PM
-2 May 2026 at 7:21 PM
-2 May 2026 at 8:10 PM
-2 May 2026 at 8:38 PM
-2 May 2026 at 8:53 PM
-2 May 2026 at 9:03 PM
-2 May 2026 at 11:24 PM
-3 May 2026 at 3:17 PM
-3 May 2026 at 6:08 PM
-3 May 2026 at 6:49 PM
-3 May 2026 at 7:00 PM
-3 May 2026 at 7:11 PM
-3 May 2026 at 7:21 PM
-3 May 2026 at 7:31 PM
-3 May 2026 at 7:42 PM
-3 May 2026 at 8:06 PM
-3 May 2026 at 8:20 PM
-3 May 2026 at 8:30 PM
-3 May 2026 at 8:40 PM
-3 May 2026 at 8:50 PM
-3 May 2026 at 9:00 PM
-3 May 2026 at 9:10 PM
-3 May 2026 at 9:20 PM
-3 May 2026 at 9:30 PM
-3 May 2026 at 9:43 PM
-3 May 2026 at 11:31 PM
-4 May 2026 at 1:39 AM
-4 May 2026 at 10:06 AM
-4 May 2026 at 10:22 AM
-4 May 2026 at 10:33 AM
-4 May 2026 at 10:53 AM
-4 May 2026 at 11:07 AM
-4 May 2026 at 11:24 AM
-4 May 2026 at 12:37 PM
-4 May 2026 at 12:47 PM
-4 May 2026 at 2:22 PM
-4 May 2026 at 2:32 PM
-4 May 2026 at 3:03 PM
-4 May 2026 at 6:20 PM
-4 May 2026 at 6:30 PM
-4 May 2026 at 6:41 PM
-4 May 2026 at 6:54 PM
-4 May 2026 at 8:14 PM
-4 May 2026 at 8:24 PM
-4 May 2026 at 8:37 PM
-4 May 2026 at 8:52 PM
-4 May 2026 at 9:02 PM
-4 May 2026 at 9:12 PM
-4 May 2026 at 9:24 PM
-4 May 2026 at 9:36 PM
-4 May 2026 at 9:47 PM
-4 May 2026 at 9:57 PM
-4 May 2026 at 10:07 PM
-4 May 2026 at 10:17 PM
-4 May 2026 at 10:27 PM
-4 May 2026 at 10:37 PM
-4 May 2026 at 10:48 PM
-4 May 2026 at 10:58 PM
-4 May 2026 at 11:08 PM
-4 May 2026 at 11:19 PM
-4 May 2026 at 11:29 PM
-4 May 2026 at 11:39 PM
-5 May 2026 at 12:41 AM
-5 May 2026 at 9:28 AM
-5 May 2026 at 9:53 AM
-5 May 2026 at 10:03 AM
-5 May 2026 at 10:45 AM
-5 May 2026 at 11:04 AM
-5 May 2026 at 11:19 AM
-5 May 2026 at 11:30 AM
-5 May 2026 at 11:40 AM
-5 May 2026 at 1:52 PM
-5 May 2026 at 2:27 PM
-5 May 2026 at 2:46 PM
-5 May 2026 at 3:03 PM
-5 May 2026 at 3:43 PM
-5 May 2026 at 3:53 PM
-5 May 2026 at 4:06 PM
-5 May 2026 at 4:40 PM
-5 May 2026 at 6:11 PM
-5 May 2026 at 6:46 PM
-5 May 2026 at 6:58 PM
-5 May 2026 at 7:15 PM
-5 May 2026 at 8:07 PM
-5 May 2026 at 8:17 PM
-5 May 2026 at 8:27 PM
-5 May 2026 at 8:48 PM
-5 May 2026 at 9:15 PM
-5 May 2026 at 9:25 PM
-5 May 2026 at 9:47 PM
-5 May 2026 at 9:57 PM
-5 May 2026 at 10:09 PM
-5 May 2026 at 10:26 PM
-5 May 2026 at 10:36 PM
 6 May 2026 at 1:38 AM
 6 May 2026 at 2:32 AM
 6 May 2026 at 3:50 AM
@@ -1001,218 +790,218 @@ STEP_COUNT
 8 May 2026 at 9:19 PM
 8 May 2026 at 9:19 PM
 8 May 2026 at 9:21 PM
+8 May 2026 at 9:21 PM
+8 May 2026 at 9:21 PM
+8 May 2026 at 9:21 PM
+8 May 2026 at 9:21 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:31 PM
+8 May 2026 at 9:31 PM
+8 May 2026 at 9:31 PM
+8 May 2026 at 9:31 PM
+8 May 2026 at 9:31 PM
+8 May 2026 at 9:31 PM
+8 May 2026 at 9:31 PM
 ===END_DATE===
-1 May 2026 at 12:10 AM
-1 May 2026 at 12:29 AM
-1 May 2026 at 12:53 AM
-1 May 2026 at 1:15 AM
-1 May 2026 at 1:51 AM
-1 May 2026 at 5:44 AM
-1 May 2026 at 6:39 AM
-1 May 2026 at 6:49 AM
-1 May 2026 at 6:58 AM
-1 May 2026 at 6:58 AM
-1 May 2026 at 7:09 AM
-1 May 2026 at 7:17 AM
-1 May 2026 at 7:27 AM
-1 May 2026 at 7:37 AM
-1 May 2026 at 7:48 AM
-1 May 2026 at 7:57 AM
-1 May 2026 at 7:59 AM
-1 May 2026 at 8:00 AM
-1 May 2026 at 8:01 AM
-1 May 2026 at 8:02 AM
-1 May 2026 at 8:03 AM
-1 May 2026 at 8:04 AM
-1 May 2026 at 8:06 AM
-1 May 2026 at 8:09 AM
-1 May 2026 at 8:07 AM
-1 May 2026 at 8:08 AM
-1 May 2026 at 8:18 AM
-1 May 2026 at 8:26 AM
-1 May 2026 at 8:22 AM
-1 May 2026 at 10:01 AM
-1 May 2026 at 10:29 AM
-1 May 2026 at 10:38 AM
-1 May 2026 at 11:54 AM
-1 May 2026 at 11:50 AM
-1 May 2026 at 11:57 AM
-1 May 2026 at 12:08 PM
-1 May 2026 at 11:59 AM
-1 May 2026 at 12:00 PM
-1 May 2026 at 12:04 PM
-1 May 2026 at 12:23 PM
-1 May 2026 at 12:22 PM
-1 May 2026 at 12:33 PM
-1 May 2026 at 12:33 PM
-1 May 2026 at 12:39 PM
-1 May 2026 at 12:43 PM
-1 May 2026 at 12:53 PM
-1 May 2026 at 12:53 PM
-1 May 2026 at 1:07 PM
-1 May 2026 at 1:07 PM
-1 May 2026 at 1:08 PM
-1 May 2026 at 1:28 PM
-1 May 2026 at 1:28 PM
-1 May 2026 at 1:38 PM
-1 May 2026 at 1:32 PM
-1 May 2026 at 1:46 PM
-1 May 2026 at 2:01 PM
-1 May 2026 at 2:10 PM
-1 May 2026 at 2:13 PM
-1 May 2026 at 2:19 PM
-1 May 2026 at 2:23 PM
-1 May 2026 at 2:27 PM
-1 May 2026 at 2:28 PM
-1 May 2026 at 2:39 PM
-1 May 2026 at 2:41 PM
-1 May 2026 at 3:03 PM
-1 May 2026 at 3:03 PM
-1 May 2026 at 3:22 PM
-1 May 2026 at 4:32 PM
-1 May 2026 at 4:46 PM
-1 May 2026 at 4:56 PM
-1 May 2026 at 5:07 PM
-1 May 2026 at 5:28 PM
-1 May 2026 at 5:31 PM
-1 May 2026 at 5:42 PM
-1 May 2026 at 5:53 PM
-1 May 2026 at 6:05 PM
-1 May 2026 at 6:15 PM
-1 May 2026 at 6:35 PM
-1 May 2026 at 6:59 PM
-1 May 2026 at 7:44 PM
-1 May 2026 at 7:52 PM
-1 May 2026 at 7:58 PM
-1 May 2026 at 8:38 PM
-1 May 2026 at 8:56 PM
-1 May 2026 at 9:06 PM
-1 May 2026 at 9:16 PM
-1 May 2026 at 9:26 PM
-1 May 2026 at 9:36 PM
-1 May 2026 at 9:46 PM
-1 May 2026 at 9:56 PM
-1 May 2026 at 10:06 PM
-1 May 2026 at 10:16 PM
-1 May 2026 at 10:27 PM
-1 May 2026 at 10:37 PM
-1 May 2026 at 10:47 PM
-1 May 2026 at 10:57 PM
-1 May 2026 at 11:06 PM
-1 May 2026 at 11:40 PM
-1 May 2026 at 11:50 PM
-1 May 2026 at 11:59 PM
-2 May 2026 at 12:10 AM
-2 May 2026 at 12:13 AM
-2 May 2026 at 2:10 AM
-2 May 2026 at 3:27 PM
-2 May 2026 at 3:49 PM
-2 May 2026 at 3:59 PM
-2 May 2026 at 4:09 PM
-2 May 2026 at 4:20 PM
-2 May 2026 at 4:30 PM
-2 May 2026 at 4:40 PM
-2 May 2026 at 4:52 PM
-2 May 2026 at 5:02 PM
-2 May 2026 at 5:06 PM
-2 May 2026 at 5:28 PM
-2 May 2026 at 5:35 PM
-2 May 2026 at 5:52 PM
-2 May 2026 at 5:57 PM
-2 May 2026 at 7:21 PM
-2 May 2026 at 7:24 PM
-2 May 2026 at 8:10 PM
-2 May 2026 at 8:38 PM
-2 May 2026 at 9:03 PM
-2 May 2026 at 9:05 PM
-2 May 2026 at 11:24 PM
-3 May 2026 at 3:17 PM
-3 May 2026 at 6:08 PM
-3 May 2026 at 6:59 PM
-3 May 2026 at 7:10 PM
-3 May 2026 at 7:21 PM
-3 May 2026 at 7:31 PM
-3 May 2026 at 7:41 PM
-3 May 2026 at 7:51 PM
-3 May 2026 at 8:14 PM
-3 May 2026 at 8:30 PM
-3 May 2026 at 8:40 PM
-3 May 2026 at 8:49 PM
-3 May 2026 at 9:00 PM
-3 May 2026 at 9:10 PM
-3 May 2026 at 9:20 PM
-3 May 2026 at 9:30 PM
-3 May 2026 at 9:30 PM
-3 May 2026 at 9:46 PM
-3 May 2026 at 11:31 PM
-4 May 2026 at 1:39 AM
-4 May 2026 at 10:14 AM
-4 May 2026 at 10:22 AM
-4 May 2026 at 10:41 AM
-4 May 2026 at 11:01 AM
-4 May 2026 at 11:11 AM
-4 May 2026 at 11:25 AM
-4 May 2026 at 12:47 PM
-4 May 2026 at 12:47 PM
-4 May 2026 at 2:32 PM
-4 May 2026 at 2:34 PM
-4 May 2026 at 3:07 PM
-4 May 2026 at 6:30 PM
-4 May 2026 at 6:34 PM
-4 May 2026 at 6:42 PM
-4 May 2026 at 7:04 PM
-4 May 2026 at 8:23 PM
-4 May 2026 at 8:32 PM
-4 May 2026 at 8:46 PM
-4 May 2026 at 9:02 PM
-4 May 2026 at 9:12 PM
-4 May 2026 at 9:22 PM
-4 May 2026 at 9:29 PM
-4 May 2026 at 9:45 PM
-4 May 2026 at 9:57 PM
-4 May 2026 at 10:07 PM
-4 May 2026 at 10:17 PM
-4 May 2026 at 10:27 PM
-4 May 2026 at 10:37 PM
-4 May 2026 at 10:47 PM
-4 May 2026 at 10:58 PM
-4 May 2026 at 11:08 PM
-4 May 2026 at 11:18 PM
-4 May 2026 at 11:29 PM
-4 May 2026 at 11:39 PM
-4 May 2026 at 11:45 PM
-5 May 2026 at 12:47 AM
-5 May 2026 at 9:35 AM
-5 May 2026 at 10:03 AM
-5 May 2026 at 10:04 AM
-5 May 2026 at 10:55 AM
-5 May 2026 at 11:10 AM
-5 May 2026 at 11:25 AM
-5 May 2026 at 11:40 AM
-5 May 2026 at 11:48 AM
-5 May 2026 at 1:54 PM
-5 May 2026 at 2:31 PM
-5 May 2026 at 2:46 PM
-5 May 2026 at 3:04 PM
-5 May 2026 at 3:48 PM
-5 May 2026 at 3:56 PM
-5 May 2026 at 4:12 PM
-5 May 2026 at 4:43 PM
-5 May 2026 at 6:11 PM
-5 May 2026 at 6:52 PM
-5 May 2026 at 7:06 PM
-5 May 2026 at 7:16 PM
-5 May 2026 at 8:15 PM
-5 May 2026 at 8:27 PM
-5 May 2026 at 8:32 PM
-5 May 2026 at 8:50 PM
-5 May 2026 at 9:25 PM
-5 May 2026 at 9:26 PM
-5 May 2026 at 9:57 PM
-5 May 2026 at 10:07 PM
-5 May 2026 at 10:19 PM
-5 May 2026 at 10:36 PM
-5 May 2026 at 10:41 PM
 6 May 2026 at 1:38 AM
 6 May 2026 at 2:38 AM
 6 May 2026 at 3:50 AM
@@ -1502,3 +1291,214 @@ STEP_COUNT
 8 May 2026 at 9:19 PM
 8 May 2026 at 9:19 PM
 8 May 2026 at 9:21 PM
+8 May 2026 at 9:21 PM
+8 May 2026 at 9:21 PM
+8 May 2026 at 9:21 PM
+8 May 2026 at 9:21 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:22 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:23 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:24 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:25 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:26 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:27 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:28 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:29 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:30 PM
+8 May 2026 at 9:31 PM
+8 May 2026 at 9:31 PM
+8 May 2026 at 9:31 PM
+8 May 2026 at 9:31 PM
+8 May 2026 at 9:31 PM
+8 May 2026 at 9:31 PM
+8 May 2026 at 9:31 PM
+8 May 2026 at 9:31 PM

@@ -1,24 +1,6 @@
 SLEEP_DATA
 ===VALUE===
 Core
-Deep
-Core
-Awake
-Core
-Deep
-Core
-REM
-Core
-Deep
-Core
-Deep
-Core
-Awake
-Core
-REM
-Awake
-Core
-Core
 Awake
 Core
 Deep
@@ -56,25 +38,22 @@ Core
 Awake
 Core
 REM
+Core
+Deep
+Core
+Awake
+Core
+Awake
+Core
+REM
+Awake
+Core
+Awake
+Core
+REM
+Awake
+Core
 ===START_DATE===
-1 May 2026 at 2:20 AM
-1 May 2026 at 2:40 AM
-1 May 2026 at 2:44 AM
-1 May 2026 at 2:48 AM
-1 May 2026 at 2:49 AM
-1 May 2026 at 2:58 AM
-1 May 2026 at 3:20 AM
-1 May 2026 at 3:36 AM
-1 May 2026 at 3:55 AM
-1 May 2026 at 4:19 AM
-1 May 2026 at 4:21 AM
-1 May 2026 at 5:04 AM
-1 May 2026 at 5:22 AM
-1 May 2026 at 5:23 AM
-1 May 2026 at 5:23 AM
-1 May 2026 at 5:28 AM
-1 May 2026 at 5:42 AM
-1 May 2026 at 5:43 AM
 7 May 2026 at 3:48 AM
 7 May 2026 at 3:50 AM
 7 May 2026 at 3:51 AM
@@ -113,25 +92,22 @@ REM
 8 May 2026 at 8:19 AM
 8 May 2026 at 8:21 AM
 8 May 2026 at 8:32 AM
+11 May 2026 at 2:51 AM
+11 May 2026 at 3:07 AM
+11 May 2026 at 3:27 AM
+11 May 2026 at 4:31 AM
+11 May 2026 at 4:32 AM
+11 May 2026 at 5:19 AM
+11 May 2026 at 5:20 AM
+11 May 2026 at 5:57 AM
+11 May 2026 at 6:20 AM
+11 May 2026 at 6:27 AM
+11 May 2026 at 7:27 AM
+11 May 2026 at 7:28 AM
+11 May 2026 at 7:31 AM
+11 May 2026 at 7:45 AM
+11 May 2026 at 7:47 AM
 ===END_DATE===
-1 May 2026 at 2:40 AM
-1 May 2026 at 2:44 AM
-1 May 2026 at 2:48 AM
-1 May 2026 at 2:49 AM
-1 May 2026 at 2:58 AM
-1 May 2026 at 3:20 AM
-1 May 2026 at 3:36 AM
-1 May 2026 at 3:55 AM
-1 May 2026 at 4:19 AM
-1 May 2026 at 4:21 AM
-1 May 2026 at 5:04 AM
-1 May 2026 at 5:22 AM
-1 May 2026 at 5:23 AM
-1 May 2026 at 5:23 AM
-1 May 2026 at 5:28 AM
-1 May 2026 at 5:42 AM
-1 May 2026 at 5:43 AM
-1 May 2026 at 6:26 AM
 7 May 2026 at 3:50 AM
 7 May 2026 at 3:51 AM
 7 May 2026 at 4:23 AM
@@ -170,3 +146,18 @@ REM
 8 May 2026 at 8:21 AM
 8 May 2026 at 8:32 AM
 8 May 2026 at 8:38 AM
+11 May 2026 at 3:07 AM
+11 May 2026 at 3:27 AM
+11 May 2026 at 4:31 AM
+11 May 2026 at 4:32 AM
+11 May 2026 at 5:19 AM
+11 May 2026 at 5:20 AM
+11 May 2026 at 5:57 AM
+11 May 2026 at 6:20 AM
+11 May 2026 at 6:27 AM
+11 May 2026 at 7:27 AM
+11 May 2026 at 7:28 AM
+11 May 2026 at 7:31 AM
+11 May 2026 at 7:45 AM
+11 May 2026 at 7:47 AM
+11 May 2026 at 8:21 AM
