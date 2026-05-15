@@ -106,3 +106,8 @@ _Physio agent appends dated entries here._
 **
 - **Consecutive-clean-days: 0/14 (Day 13 — new record). Sleep ≥7h nights in last 14: 0/14.** Both leading indicators at all-time worst for a 13th straight day. This is no longer a monitoring issue — it is the clinical issue.
 - Bedtime-circadian-delay hypothesis is now the working model: the player isn't sleep-*deprived* in the acute sense (logged nights average ~5h), they are **phase-shifted** (sleeping 03:00–08:30 consistently). Intervention at next in-person session should target a stepwise bedtime advance (15 min/night) rather than asking for an immediate 4-hour shift, which won't stick.
+
+### 2026-05-15
+**
+- **Consecutive-clean-days: 0/14 (Day 14 — two full weeks).** Sleep ≥7h nights in last 14: **0/14**. This is the headline at next in-person session, period. Frame as: "We have not had a single complete data day or a single adequate sleep night in two weeks — this blocks every other decision I can make for you."
+- 05-11 (5.5h) shows **20m deep / 37m REM** — both well below typical proportions for that duration, suggesting fragmented architecture on top of restricted duration. If next clean night also shows depressed deep+REM, sleep quality (not just quantity) becomes a second tracked dimension.
