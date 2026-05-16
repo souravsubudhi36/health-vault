@@ -111,3 +111,8 @@ _Physio agent appends dated entries here._
 **
 - **Consecutive-clean-days: 0/14 (Day 14 — two full weeks).** Sleep ≥7h nights in last 14: **0/14**. This is the headline at next in-person session, period. Frame as: "We have not had a single complete data day or a single adequate sleep night in two weeks — this blocks every other decision I can make for you."
 - 05-11 (5.5h) shows **20m deep / 37m REM** — both well below typical proportions for that duration, suggesting fragmented architecture on top of restricted duration. If next clean night also shows depressed deep+REM, sleep quality (not just quantity) becomes a second tracked dimension.
+
+### 2026-05-16
+**
+- **Consecutive-clean-days: 0/14 (Day 15 — new record).** Sleep ≥7h nights in last 14: **0/14**. Last 3 logged nights all <6h (4.6 / 6.0 / 5.5) — formal chronic sleep restriction flag triggered today.
+- Working model for next in-person session is now a **single linked intervention**: stepwise bedtime advance (15 min/night) as the upstream lever, with device-wear as the downstream compliance check. Do not present these as two separate issues — they are one behavioral chain.
