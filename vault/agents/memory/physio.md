@@ -116,3 +116,8 @@ _Physio agent appends dated entries here._
 **
 - **Consecutive-clean-days: 0/14 (Day 15 — new record).** Sleep ≥7h nights in last 14: **0/14**. Last 3 logged nights all <6h (4.6 / 6.0 / 5.5) — formal chronic sleep restriction flag triggered today.
 - Working model for next in-person session is now a **single linked intervention**: stepwise bedtime advance (15 min/night) as the upstream lever, with device-wear as the downstream compliance check. Do not present these as two separate issues — they are one behavioral chain.
+
+### 2026-05-17
+**
+- **Day 16 blackout / 0 of 14 nights ≥7h — both records.** Yesterday's 16,787 → today's 4,808 step swing is the first observable load-crash sequence since 04-30/05-01; if a complaint surfaces in next 72h, this is the second data point confirming the high-load→under-recovery hypothesis.
+- Single linked intervention for next in-person session is locked: **stepwise bedtime advance (start 01:00 tonight, -15 min/night) as upstream lever; device-wear is the downstream check.** One behavioral chain, one ask.
