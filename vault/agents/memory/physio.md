@@ -121,3 +121,8 @@ _Physio agent appends dated entries here._
 **
 - **Day 16 blackout / 0 of 14 nights ≥7h — both records.** Yesterday's 16,787 → today's 4,808 step swing is the first observable load-crash sequence since 04-30/05-01; if a complaint surfaces in next 72h, this is the second data point confirming the high-load→under-recovery hypothesis.
 - Single linked intervention for next in-person session is locked: **stepwise bedtime advance (start 01:00 tonight, -15 min/night) as upstream lever; device-wear is the downstream check.** One behavioral chain, one ask.
+
+### 2026-05-18
+**
+- **Day 17 blackout / 0 of 14 nights ≥7h — both new records.** The 11-step reading today is the first day where activity data itself is essentially missing, not just biometrics — the compliance failure is broadening, not narrowing. If today's in-person session does not happen or does not produce a behavioral commitment, escalate to the player's coach as a performance-blocking issue.
+- The 05-15 → 05-16 → 05-17 step sequence (16,787 → 4,808 → 11) is the second observable load-crash pattern in 2 weeks (first was 04-30/05-01). Two instances is a pattern, not a coincidence — high-load days are reliably followed by 48h of under-recovery and device drop-off. Log this as a confirmed behavioral signature.
