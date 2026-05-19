@@ -126,3 +126,8 @@ _Physio agent appends dated entries here._
 **
 - **Day 17 blackout / 0 of 14 nights ≥7h — both new records.** The 11-step reading today is the first day where activity data itself is essentially missing, not just biometrics — the compliance failure is broadening, not narrowing. If today's in-person session does not happen or does not produce a behavioral commitment, escalate to the player's coach as a performance-blocking issue.
 - The 05-15 → 05-16 → 05-17 step sequence (16,787 → 4,808 → 11) is the second observable load-crash pattern in 2 weeks (first was 04-30/05-01). Two instances is a pattern, not a coincidence — high-load days are reliably followed by 48h of under-recovery and device drop-off. Log this as a confirmed behavioral signature.
+
+### 2026-05-19
+**
+- **Day 18 of blackout; Day 17 of 0/14 nights ≥7h.** Both metrics still at all-time worst. The 16,787 → 4,825 step swing on 05-15/16 is now the second confirmed load-crash sequence (first: 04-30/05-01) — this is a behavioral signature, not noise.
+- The in-person session referenced in yesterday's note appears not to have produced data — if today is the same, escalate to coach tomorrow. The single linked intervention (bedtime advance → device compliance as downstream check) remains the only ask on the table.
