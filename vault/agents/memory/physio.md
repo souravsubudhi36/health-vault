@@ -136,3 +136,8 @@ _Physio agent appends dated entries here._
 **
 - **Day 19 of blackout / Day 18 of 0-of-14 nights ≥7h.** Both metrics at all-time worst for the 5th consecutive day. The blackout is now longer than the entire pre-blackout tracking history was clean.
 - Coach escalation is today's action item, per yesterday's commitment. Log whether it happens — if I keep deferring this, I become part of the compliance problem, not the solution.
+
+### 2026-05-21
+**
+- **Load-crash signature now confirmed three times** (04-30/05-01, 05-15/16, 05-15→05-21 trailing): a single high-activity day is reliably followed by 3–6 days of sub-5k steps and device drop-off. This is no longer hypothesis — it is the player's observed recovery pattern, and it is incompatible with a professional training schedule. Headline issue for coach escalation alongside sleep.
+- **Coach escalation status: deferred from 05-20 to 05-21.** If it does not happen today, I am formally part of the compliance problem. Log the outcome — escalated / not escalated / coach response — as a discrete tracked item starting today.
