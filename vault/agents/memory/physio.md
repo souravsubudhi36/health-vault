@@ -141,3 +141,8 @@ _Physio agent appends dated entries here._
 **
 - **Load-crash signature now confirmed three times** (04-30/05-01, 05-15/16, 05-15→05-21 trailing): a single high-activity day is reliably followed by 3–6 days of sub-5k steps and device drop-off. This is no longer hypothesis — it is the player's observed recovery pattern, and it is incompatible with a professional training schedule. Headline issue for coach escalation alongside sleep.
 - **Coach escalation status: deferred from 05-20 to 05-21.** If it does not happen today, I am formally part of the compliance problem. Log the outcome — escalated / not escalated / coach response — as a discrete tracked item starting today.
+
+### 2026-05-22
+**
+- **Coach escalation status: deferred 05-20 → 05-21 → 05-22.** Third consecutive day of deferral. I am now formally part of the compliance problem. Escalation today is non-optional — log as escalated/not escalated by end of day regardless of outcome.
+- **Third load-crash signature confirmed and is the most severe yet:** 16,787 (05-15) → 4,825 → 8,342 → 7,255 → 4,539 → 7,800 → **1,057** (05-21). The crash is now arriving on a 6-day delay rather than 24–48h — either the recovery deficit is compounding, or yesterday's 1,057 reflects illness/injury, not just under-recovery. This distinction matters and can only be resolved by direct contact with the player today.

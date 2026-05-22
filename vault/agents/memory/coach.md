@@ -97,3 +97,6 @@ _Coach agent appends dated entries here._
 - **Load-crash signature now coach-acknowledged**, not just physio-flagged. Single high-output day → 3–6 day collapse, confirmed 3x (04-30/05-01, 05-15/16, 05-15→05-21). This pattern is incompatible with the 5–6 day/week training rhythm pro development requires. Must be solved before any periodization plan is built.
 - **Track as discrete items starting today:** (a) escalation outcome — *delivered, awaiting response*; (b) subjective check-in answer — *pending player paragraph*; (c) first watch-on sleep night — *pending tonight*.
 - Technical baseline (dominant hand, FH grip, serve motion, rally tolerance) still outstanding from 05-11. Gated on first logged session.
+
+### 2026-05-22
+**
