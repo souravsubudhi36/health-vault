@@ -146,3 +146,9 @@ _Physio agent appends dated entries here._
 **
 - **Coach escalation status: deferred 05-20 → 05-21 → 05-22.** Third consecutive day of deferral. I am now formally part of the compliance problem. Escalation today is non-optional — log as escalated/not escalated by end of day regardless of outcome.
 - **Third load-crash signature confirmed and is the most severe yet:** 16,787 (05-15) → 4,825 → 8,342 → 7,255 → 4,539 → 7,800 → **1,057** (05-21). The crash is now arriving on a 6-day delay rather than 24–48h — either the recovery deficit is compounding, or yesterday's 1,057 reflects illness/injury, not just under-recovery. This distinction matters and can only be resolved by direct contact with the player today.
+
+### 2026-05-23
+**
+- **Consecutive-clean-days: still 0/14 (Day 20)** but sleep ≥7h streak finally broken: 1/14 as of today. If tonight also lands ≥7h, this is the first corrective swing observed in the dataset — track whether it holds for 3+ nights before calling it a trend.
+- **05-22 sleep architecture (62m deep, 136m REM on 7.7h = 18% deep, 29% REM)** is the new internal benchmark for "what good looks like" for this player. REM still slightly elevated suggests residual debt repayment — expect REM% to drift toward 22–25% over next 5–7 good nights if debt clears.
+- **Coach escalation:** if verbal contact today confirms the player is engaging again, hold escalation in reserve; if no contact by EOD, escalate. Do not let a single good data day defer this a fourth time.
