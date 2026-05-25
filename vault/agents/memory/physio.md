@@ -152,3 +152,8 @@ _Physio agent appends dated entries here._
 - **Consecutive-clean-days: still 0/14 (Day 20)** but sleep ≥7h streak finally broken: 1/14 as of today. If tonight also lands ≥7h, this is the first corrective swing observed in the dataset — track whether it holds for 3+ nights before calling it a trend.
 - **05-22 sleep architecture (62m deep, 136m REM on 7.7h = 18% deep, 29% REM)** is the new internal benchmark for "what good looks like" for this player. REM still slightly elevated suggests residual debt repayment — expect REM% to drift toward 22–25% over next 5–7 good nights if debt clears.
 - **Coach escalation:** if verbal contact today confirms the player is engaging again, hold escalation in reserve; if no contact by EOD, escalate. Do not let a single good data day defer this a fourth time.
+
+### 2026-05-25
+**
+- **Coach escalation status: deferred 05-20 → 05-21 → 05-22 → 05-23 → 05-24 → today (05-25).** Six consecutive days of deferral. The 05-22 good-sleep reading was used to defer once, per my own rule — that exemption has expired. If verbal contact does not happen today, escalate by EOD, no exceptions. I am the compliance problem if I don't.
+- **Single-night 7.7h reading (05-22) did not hold** — 05-23 and 05-24 reverted to blank. The "corrective swing" hypothesis from 05-23 is dead. Sleep ≥7h nights in last 14: still 1/14. Consecutive-clean-days: 0/14 (Day 22 of blackout — new record). Both leading indicators continue to set worst-ever marks daily.
