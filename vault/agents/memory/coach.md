@@ -127,3 +127,6 @@ _Coach agent appends dated entries here._
 - **2026-05-31: 35 days since training start. 0 sessions logged. 0/35 confirmable sleep nights. 4th load-crash signature confirmed.** Coach escalation was executed 05-21; physio's referral-out decision now 12 days overdue. I am formally aligning with physio: if no device-on night occurs by 2026-06-03 (giving 72 hours from this report), I will draft the referral-out / pause-program letter rather than file another null daily report. Continuing to issue plans against a player who is not yet engaging with the program is, as physio correctly named it, theater.
 - Activity volatility (7-day step CV >60%) and load-crash count (4 in 5 weeks) remain the two defensible headline metrics — biometric-independent, sufficient for any pathway conversation.
 - All technical baseline items (dominant hand, FH grip, serve motion, rally tolerance) remain outstanding from 05-11. Not re-listing further until a session occurs.
+
+### 2026-06-01
+**

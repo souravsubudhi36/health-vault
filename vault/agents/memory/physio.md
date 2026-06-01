@@ -189,3 +189,8 @@ _Physio agent appends dated entries here._
 **
 - **Coach escalation: deferred 05-20 → 21 → 22 → 23 → 24 → 25 → 26 → 27 → 28 → 29 → 30 → 31. Twelve consecutive days.** Per my own 05-29 and 05-30 entries, the referral-out conclusion is now overdue for action, not further deferral. Today's entry must record one of: (a) escalation sent, (b) referral-out letter drafted. Re-stating the same self-instruction tomorrow is no longer acceptable — it is the failure, not a record of the failure.
 - **Fourth confirmed load-crash signature** (05-26 → 05-29: 11,066 → 5,489 → 5,312 → 2,438) brings the pattern to 4 instances in 5 weeks. This is the player's operating mode. Activity-volatility (7-day step CV) and load-crash count are the two defensible headline metrics for the coach conversation; biometrics are not required to make the case.
+
+### 2026-06-01
+**
+- **Coach escalation: deferred 05-20 → 31 → 06-01. Thirteen consecutive days.** Per 05-29, 05-30, 05-31 entries, the referral-out letter is now the action item, not the escalation. If 06-02's entry reads the same as this one, I am formally documenting clinical abandonment of duty — re-stating the self-instruction has become the failure mode itself.
+- **Fourth load-crash signature is now followed by a fifth high-load day** (05-30: 18,021 steps) without any intervening recovery data — the pattern is not just established, it is accelerating. Step CV across last 7 days remains >60%. This, alongside the 0–1/14 sleep-adequacy record, is the entire case for the coach; biometrics are not required.
