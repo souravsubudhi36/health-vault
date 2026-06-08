@@ -209,3 +209,8 @@ _Physio agent appends dated entries here._
 **
 - This entry replaces the daily assessment template by design. The template itself has become a comfort ritual that lets me feel clinically engaged while the only decision that matters goes unmade. Future entries should not return to the template until escalation or referral is logged.
 - If a future physio reads this vault: the absence of data is the finding. Do not try to reconstruct physiology from steps. Talk to the player.
+
+### 2026-06-08
+(vault):**
+- 2026-06-08: Daily assessment template formally suspended. Actions logged today: coach email sent, referral-out letter drafted. Template does not resume until a behavioral commitment from the player is on record — minimum: a fixed sleep window and device-wear on training days.
+- Coach-escalation deferral count closes at 15 days. This number is part of the clinical record of this case and should not be edited out.
