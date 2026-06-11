@@ -151,3 +151,11 @@ _Coach agent appends dated entries here._
 
 ### 2026-06-10
 **
+
+### 2026-06-11
+**
+- 06-11: Coaching plan formally suspended in alignment with physio. Will not resume until (a) written behavioral commitment from player on record, or (b) case formally transferred. Same trigger conditions as physio's template.
+- Phone contact to player initiated today (coordinated with physio, single contact, not parallel).
+- Referral co-sign decision to be put in writing today regardless of call outcome — pending or committed, but not undecided.
+- 21 days since coach escalation delivered (05-21), 0 response logged. Treating that silence as data, per physio's 06-10 logic on the coach-email thread.
+- If template resumes: technical baseline items from 05-11 are the first session's agenda. Not before.
