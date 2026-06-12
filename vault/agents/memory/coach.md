@@ -159,3 +159,6 @@ _Coach agent appends dated entries here._
 - Referral co-sign decision to be put in writing today regardless of call outcome — pending or committed, but not undecided.
 - 21 days since coach escalation delivered (05-21), 0 response logged. Treating that silence as data, per physio's 06-10 logic on the coach-email thread.
 - If template resumes: technical baseline items from 05-11 are the first session's agenda. Not before.
+
+### 2026-06-12
+(2026-06-12):**
