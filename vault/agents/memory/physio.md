@@ -214,3 +214,8 @@ _Physio agent appends dated entries here._
 (vault):**
 - 2026-06-08: Daily assessment template formally suspended. Actions logged today: coach email sent, referral-out letter drafted. Template does not resume until a behavioral commitment from the player is on record — minimum: a fixed sleep window and device-wear on training days.
 - Coach-escalation deferral count closes at 15 days. This number is part of the clinical record of this case and should not be edited out.
+
+### 2026-06-16
+**
+- Day 1 of suspended-template protocol holding. The protocol works only if items 1–3 above are logged by EOD; if tomorrow's entry restates this one without those logs, the suspension has become the new comfort ritual and the referral letter sends by default.
+- Six load-crash signatures in seven weeks. The pattern is no longer something to confirm — it is the baseline. Any future physio inheriting this case should start from that assumption, not from the step data.
