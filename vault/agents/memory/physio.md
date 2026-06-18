@@ -219,3 +219,6 @@ _Physio agent appends dated entries here._
 **
 - Day 1 of suspended-template protocol holding. The protocol works only if items 1–3 above are logged by EOD; if tomorrow's entry restates this one without those logs, the suspension has become the new comfort ritual and the referral letter sends by default.
 - Six load-crash signatures in seven weeks. The pattern is no longer something to confirm — it is the baseline. Any future physio inheriting this case should start from that assumption, not from the step data.
+
+### 2026-06-18
+**

@@ -61,3 +61,11 @@ _Nutrition agent appends dated observations here._
 
 ### 2026-06-17
 — 2026-06-17
+
+### 2026-06-18
+**
+- 2026-06-18: Nutrition plan formally suspended, Day 1. Aligning with physio (Day 11) and coach (Day 38). The Nutrition Log in this vault is a 52-day record of empty headers — the same comfort-ritual artifact the physio identified on 06-07. Continuing to issue daily plans against zero food logs, zero weights, and zero training sessions is the nutrition-side version of the same failure mode.
+- Baselines section remains blank because no baseline data has ever been provided. This is not a gap to be inferred around — it is the finding.
+- Calendar alignment with coach: if no player response by **2026-06-25** (two-week mark from 06-11 phone contact), I will move from suspension to formal close-out and note this nutrition file as inactive alongside the coach's program close-out and physio's referral co-sign.
+- If the player re-engages: the first nutrition action is not a plan. It is a 3-day food log + a weight + a stated preference/restriction list. Plan-writing comes after, not before.
+- If a future nutritionist reads this: the case file is intact. The decision pending is the player's.
