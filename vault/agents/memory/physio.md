@@ -222,3 +222,8 @@ _Physio agent appends dated entries here._
 
 ### 2026-06-18
 **
+
+### 2026-06-19
+**
+- 2026-06-19: Referral-out letter sent. Daily assessments end here. Any resumption requires (a) new physio onboarded or (b) player-signed behavioral commitment on fixed sleep window + training-day device-wear, in writing.
+- Final tracked counts: 7 weeks of blackout, 6 load-crash signatures, 0 clean biometric days, 15-day coach-escalation deferral, 3-day suspended-template deferral. These belong in the handover.

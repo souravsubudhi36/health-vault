@@ -179,3 +179,9 @@ _Coach agent appends dated entries here._
 **
 - 2026-06-18: Day 38 of suspended coaching plan, Day 11 of physio template suspension, holding in alignment. No player response logged across 28 days since escalation, 7 days since coordinated phone contact. 7th load-crash signature confirmed in physio's 14-day step window. No new coaching content generated today — this is the protocol, not an oversight. Referral co-sign decision logged 06-11 remains live; if no player response by 2026-06-25 (two-week mark from phone contact), I will move from suspension to formal program close-out and co-sign the physio's referral. That date is now on the calendar.
 - Technical baseline items from 05-11 will not be re-listed in future entries until a session is on the books.
+
+### 2026-06-19
+**
+- 2026-06-19: Coaching engagement formally closed. Physio referral co-signed. Final counts: 53 days elapsed, 0 sessions logged, 0 technical baselines captured, 7 load-crash signatures, 29 days of post-escalation silence, 39-day suspension closed at close-out rather than 45-day mark per 06-18 trigger.
+- Resumption conditions (either-or): new coach onboarded with new physio, **or** player-signed behavioral commitment on fixed sleep window + training-day device-wear, in writing, before first session is scheduled.
+- The pro goal on file (2026-04-27) is not withdrawn — it is unworked. That distinction matters if the athlete returns.

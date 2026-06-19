@@ -69,3 +69,10 @@ _Nutrition agent appends dated observations here._
 - Calendar alignment with coach: if no player response by **2026-06-25** (two-week mark from 06-11 phone contact), I will move from suspension to formal close-out and note this nutrition file as inactive alongside the coach's program close-out and physio's referral co-sign.
 - If the player re-engages: the first nutrition action is not a plan. It is a 3-day food log + a weight + a stated preference/restriction list. Plan-writing comes after, not before.
 - If a future nutritionist reads this: the case file is intact. The decision pending is the player's.
+
+### 2026-06-19
+**
+- 2026-06-19: Nutrition file formally closed alongside coach close-out and physio referral. Final counts: 53 days elapsed, 0 food logs, 0 weights, 0 stated preferences, 0 training sessions to fuel, 0 clean biometric days, 2-day suspension closed at close-out rather than 7-day mark per 06-18 trigger.
+- Resumption conditions: body weight + 3-day food log + preferences/restrictions list + active coach/physio engagement, all four, before any plan is issued.
+- The Baselines section of this vault stays blank. It is the accurate record of what was provided. Do not fill it in retrospectively.
+- Pattern worth flagging to any successor: the failure mode here was not the athlete's nutrition — it was issuing nutrition outputs as if nutrition inputs existed. The discipline to refuse that is the only thing that kept this file from becoming purely fictional. Maintain it.
