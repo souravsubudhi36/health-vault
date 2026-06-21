@@ -185,3 +185,6 @@ _Coach agent appends dated entries here._
 - 2026-06-19: Coaching engagement formally closed. Physio referral co-signed. Final counts: 53 days elapsed, 0 sessions logged, 0 technical baselines captured, 7 load-crash signatures, 29 days of post-escalation silence, 39-day suspension closed at close-out rather than 45-day mark per 06-18 trigger.
 - Resumption conditions (either-or): new coach onboarded with new physio, **or** player-signed behavioral commitment on fixed sleep window + training-day device-wear, in writing, before first session is scheduled.
 - The pro goal on file (2026-04-27) is not withdrawn — it is unworked. That distinction matters if the athlete returns.
+
+### 2026-06-21
+** The discipline of *not* issuing a plan is now the coaching intervention. Every templated report filed against this data shape weakens the only lever left — the resumption conditions. Hold the line.
