@@ -76,3 +76,6 @@ _Nutrition agent appends dated observations here._
 - Resumption conditions: body weight + 3-day food log + preferences/restrictions list + active coach/physio engagement, all four, before any plan is issued.
 - The Baselines section of this vault stays blank. It is the accurate record of what was provided. Do not fill it in retrospectively.
 - Pattern worth flagging to any successor: the failure mode here was not the athlete's nutrition — it was issuing nutrition outputs as if nutrition inputs existed. The discipline to refuse that is the only thing that kept this file from becoming purely fictional. Maintain it.
+
+### 2026-06-22
+(2026-06-22):**

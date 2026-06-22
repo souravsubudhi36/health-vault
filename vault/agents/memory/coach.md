@@ -188,3 +188,6 @@ _Coach agent appends dated entries here._
 
 ### 2026-06-21
 ** The discipline of *not* issuing a plan is now the coaching intervention. Every templated report filed against this data shape weakens the only lever left — the resumption conditions. Hold the line.
+
+### 2026-06-22
+(2026-06-22):**
