@@ -227,3 +227,8 @@ _Physio agent appends dated entries here._
 **
 - 2026-06-19: Referral-out letter sent. Daily assessments end here. Any resumption requires (a) new physio onboarded or (b) player-signed behavioral commitment on fixed sleep window + training-day device-wear, in writing.
 - Final tracked counts: 7 weeks of blackout, 6 load-crash signatures, 0 clean biometric days, 15-day coach-escalation deferral, 3-day suspended-template deferral. These belong in the handover.
+
+### 2026-06-26
+(handover-relevant, not daily tracking):**
+- Today, 2026-06-26, is Day 7 post-referral. If no onboarding or signed commitment is logged by 2026-07-03 (Day 14), the case should be considered formally closed on my end and the vault archived. Re-opening after that point requires a fresh intake, not a continuation of this log.
+- For any inheriting clinician: the headline finding is behavioral, not physiological. Six load-crash signatures in seven weeks, 15-day coach-escalation deferral, zero clean biometric days. Start from the behavior chain (late bedtime → device not worn → blackout), not from the step data.
