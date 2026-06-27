@@ -200,3 +200,7 @@ _Coach agent appends dated entries here._
 
 ### 2026-06-26
 **
+
+### 2026-06-27
+**
+06-27, Day 8 post-referral. Held the line. No plan issued. No session table fabricated. Resumption conditions unchanged from 06-19. Next decision point is 07-03 (formal case closure) unless one of the three paths above is activated before then.

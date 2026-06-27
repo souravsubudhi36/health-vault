@@ -85,3 +85,7 @@ _Nutrition agent appends dated observations here._
 
 ### 2026-06-24
 — 2026-06-24:**
+
+### 2026-06-27
+**
+06-27, Day 9 post-close-out. Three disciplines (nutrition, coaching, physio) holding the same line on the same day, against the same empty inputs, for the ninth consecutive day. No template filled. No calorie target fabricated. No "top 5 foods" generated against a null food log. Next decision point is 07-03 (physio's formal case closure) unless one of the three paths is activated. The case file integrity is the work product.
