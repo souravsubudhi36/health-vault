@@ -204,3 +204,7 @@ _Coach agent appends dated entries here._
 ### 2026-06-27
 **
 06-27, Day 8 post-referral. Held the line. No plan issued. No session table fabricated. Resumption conditions unchanged from 06-19. Next decision point is 07-03 (formal case closure) unless one of the three paths above is activated before then.
+
+### 2026-06-30
+**
+2026-06-30, Day 11 post-referral. Held the line. No plan issued, no session table fabricated, no technical prescriptions written against blackout data. Seventh load-crash signature in the current 14-day window per physio — consistent with handover baseline, adds nothing. Next and likely final decision point is 2026-07-03. If an inheriting coach reads this: the 05-21 escalation, 06-11 suspension, and 06-19 close-out entries are the spine of this file. Do not restart the daily plan against a player who has not yet entered the program. Start with the conversation, then the written commitment, then the first session — in that order.
