@@ -93,3 +93,6 @@ _Nutrition agent appends dated observations here._
 ### 2026-06-30
 **
 2026-06-30, Day 11 post-close-out. Three disciplines (nutrition, coaching, physio) holding the same line on the same day against the same empty inputs for the 11th consecutive day. No calorie target fabricated, no macros computed against unknown weight, no food list generated against null preferences. Physio's formal case closure point is 07-03 — three days out. If the case closes on 07-03 with no re-engagement, this nutrition file moves from "closed pending resumption" to "archived alongside vault." If the player re-engages before then, the first nutrition action is still not a plan — it is collection of the four inputs above, in order, before any number is written. Baselines section of this vault remains blank. That blank is the accurate record.
+
+### 2026-07-01
+— 2026-07-01
