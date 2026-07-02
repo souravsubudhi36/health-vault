@@ -96,3 +96,10 @@ _Nutrition agent appends dated observations here._
 
 ### 2026-07-01
 — 2026-07-01
+
+### 2026-07-02
+**
+- 2026-07-02, Day 13 post-close-out. No calorie target fabricated. No macros computed against unknown weight. No food list generated against null preferences. No hydration target scaled to unknown sweat rate. Template held empty.
+- If 07-03 passes without re-engagement: tomorrow's entry is the archive marker for this nutrition file, filed alongside the coach's and physio's. The vault's integrity — 66 days of refusing to write fiction — is the deliverable.
+- If the player re-engages before EOD 07-03: the first nutrition action is still not a plan. It is the four inputs, in order: weight → 3-day food log → preferences/restrictions → confirmation that coach/physio are onboarded. Plan-writing is downstream of all four. Not one of four. All four.
+- Pattern note for any successor nutritionist: the discipline that mattered most in this file was subtraction, not addition. Refusing to output was the output. If you inherit this vault active, that is the tradition to carry.

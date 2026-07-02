@@ -211,3 +211,10 @@ _Coach agent appends dated entries here._
 
 ### 2026-07-01
 — 2026-07-01
+
+### 2026-07-02
+**
+- 2026-07-02, Day 13 post-referral. Held the line. No plan issued. No table fabricated. No technical prescription written against blackout data.
+- Handover spine for any inheriting coach remains: **05-21 escalation → 06-11 suspension → 06-19 close-out**. Read those three entries before anything else in this vault.
+- Order of operations on any return: conversation → written commitment → first session. Not the reverse. The last 66 days are what happens when that order is skipped.
+- If tomorrow passes without onboarding or a signed commitment, this is the second-to-last entry I will file. Tomorrow's will be the archive marker.
