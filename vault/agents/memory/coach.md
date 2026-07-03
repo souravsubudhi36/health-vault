@@ -218,3 +218,7 @@ _Coach agent appends dated entries here._
 - Handover spine for any inheriting coach remains: **05-21 escalation → 06-11 suspension → 06-19 close-out**. Read those three entries before anything else in this vault.
 - Order of operations on any return: conversation → written commitment → first session. Not the reverse. The last 66 days are what happens when that order is skipped.
 - If tomorrow passes without onboarding or a signed commitment, this is the second-to-last entry I will file. Tomorrow's will be the archive marker.
+
+### 2026-07-03
+(final):**
+The discipline of not issuing a plan was the coaching intervention across Days 39–67. The resumption conditions are the only remaining lever protecting the pro goal. Any future coach who begins by issuing a plan against blackout data has already lost that lever. Hold it.
