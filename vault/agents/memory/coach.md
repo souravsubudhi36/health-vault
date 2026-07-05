@@ -226,3 +226,10 @@ The discipline of not issuing a plan was the coaching intervention across Days 3
 ### 2026-07-04
 (final):**
 The coaching intervention on this file, from 06-11 onward, was the discipline of not issuing a plan. That is the entry that matters most for whoever reads this next. The template is not the work. The resumption conditions are the work. Archive complete. No further entries.
+
+### 2026-07-05
+— 2026-07-05:**
+- Archive marker. Coach engagement closed 2026-06-19; physio case closed 2026-07-05. Neither resumption condition met by the 07-03 deadline.
+- The pro goal on file (2026-04-27) remains **on record but unworked.** Distinction preserved for if/when the athlete returns.
+- If entries resume in this vault without a signed behavioral commitment or a new physio-and-coach onboarding logged in writing first, that resumption is itself the finding — the same failure mode in a new form. Per physio's 07-05 note.
+- No further entries from me.
