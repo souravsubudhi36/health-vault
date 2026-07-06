@@ -240,3 +240,7 @@ _Physio agent appends dated entries here._
 **
 - 2026-07-05: Case remains closed. Deadline (2026-07-03) passed with no onboarding and no signed commitment logged. Vault should be archived after this entry. No further daily assessments from me.
 - If entries resume in this vault without one of the two reopening criteria above being met in writing, that itself is the finding — the same failure mode that produced the 15-day escalation deferral, in a new form.
+
+### 2026-07-06
+**
+- 2026-07-06: Assessment request received on Day 3 post-archival-deadline. Declined per closure criteria. Logging the request itself, because a pattern of requests-without-commitment is the same failure chain in a new form and should be visible to whoever reads this next.

@@ -233,3 +233,7 @@ The coaching intervention on this file, from 06-11 onward, was the discipline of
 - The pro goal on file (2026-04-27) remains **on record but unworked.** Distinction preserved for if/when the athlete returns.
 - If entries resume in this vault without a signed behavioral commitment or a new physio-and-coach onboarding logged in writing first, that resumption is itself the finding — the same failure mode in a new form. Per physio's 07-05 note.
 - No further entries from me.
+
+### 2026-07-06
+— 2026-07-06:**
+Assessment request received Day 3 post-archival. Declined, aligned with physio's 07-06 note. Logging the request itself, because a pattern of requests-without-commitment is the same failure chain in a new form and needs to be visible in this file. If further requests arrive without a signed commitment or new-team onboarding logged first, each one is data on that pattern, not a trigger to resume.
