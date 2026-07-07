@@ -1,74 +1,5 @@
 STEP_COUNT
 ===VALUE===
-16
-279
-100
-89
-400
-227
-354
-40
-195
-61
-354
-452
-27
-407
-625
-481
-80
-26
-11
-75
-64
-176
-75
-19
-53
-252
-382
-617
-88
-7
-8
-208
-202
-50
-69
-228
-27
-86
-52
-23
-48
-100
-152
-150
-45
-72
-17
-135
-31
-8
-15
-19
-19
-4
-18
-24
-38
-541
-359
-21
-4
-21
-18
-10
-35
-14
-24
-24
-15
 9
 16
 16
@@ -156,76 +87,150 @@ STEP_COUNT
 155
 26
 38
+14
+103
+199
+197
+261
+53
+92
+228
+8
+19
+293
+50
+374
+181
+16
+75
+155
+21
+14
+38
+76
+9
+139
+544
+69
+497
+6
+8
+8
+133
+11
+19
+202
+211
+69
+185
+188
+216
+428
+296
+26
+179
+3
+200
+52
+608
+546
+41
+408
+216
+110
+25
+9
+448
+569
+607
+75
+202
+249
+83
+99
+53
+358
+248
+99
+187
+179
+226
+74
+250
+676
+202
+273
+18
+2
+97
+29
+147
+45
+287
+39
+54
+66
+41
+557
+469
+155
+97
+293
+165
+187
+163
+19
+89
+94
+27
+72
+8
+26
+16
+2
+133
+16
+68
+38
+84
+6
+356
+161
+12
+28
+338
+205
+380
+19
+457
+937
+308
+86
+554
+273
+266
+571
+551
+423
+227
+398
+217
+138
+23
+83
+196
+83
+247
+222
+157
+135
+146
+214
+86
+172
+80
+216
 ===START_DATE===
-27 Jun 2026 at 1:54 AM
-27 Jun 2026 at 7:12 AM
-27 Jun 2026 at 7:44 AM
-27 Jun 2026 at 8:15 AM
-27 Jun 2026 at 8:25 AM
-27 Jun 2026 at 8:35 AM
-27 Jun 2026 at 8:45 AM
-27 Jun 2026 at 8:55 AM
-27 Jun 2026 at 9:08 AM
-27 Jun 2026 at 9:18 AM
-27 Jun 2026 at 9:37 AM
-27 Jun 2026 at 9:51 AM
-27 Jun 2026 at 10:13 AM
-27 Jun 2026 at 10:24 AM
-27 Jun 2026 at 10:34 AM
-27 Jun 2026 at 10:44 AM
-27 Jun 2026 at 10:54 AM
-27 Jun 2026 at 11:12 AM
-27 Jun 2026 at 11:48 AM
-27 Jun 2026 at 12:10 PM
-27 Jun 2026 at 2:02 PM
-27 Jun 2026 at 2:50 PM
-27 Jun 2026 at 3:13 PM
-27 Jun 2026 at 3:24 PM
-27 Jun 2026 at 3:37 PM
-27 Jun 2026 at 3:57 PM
-27 Jun 2026 at 4:08 PM
-27 Jun 2026 at 4:18 PM
-27 Jun 2026 at 4:28 PM
-27 Jun 2026 at 4:44 PM
-27 Jun 2026 at 5:02 PM
-27 Jun 2026 at 5:19 PM
-27 Jun 2026 at 5:29 PM
-27 Jun 2026 at 5:40 PM
-27 Jun 2026 at 5:51 PM
-27 Jun 2026 at 6:06 PM
-27 Jun 2026 at 6:17 PM
-27 Jun 2026 at 6:32 PM
-27 Jun 2026 at 6:56 PM
-27 Jun 2026 at 7:21 PM
-27 Jun 2026 at 7:33 PM
-27 Jun 2026 at 7:46 PM
-27 Jun 2026 at 8:35 PM
-27 Jun 2026 at 10:40 PM
-27 Jun 2026 at 11:19 PM
-27 Jun 2026 at 11:30 PM
-28 Jun 2026 at 10:18 AM
-28 Jun 2026 at 10:50 AM
-28 Jun 2026 at 11:33 AM
-28 Jun 2026 at 12:02 PM
-28 Jun 2026 at 12:14 PM
-28 Jun 2026 at 1:07 PM
-28 Jun 2026 at 1:26 PM
-28 Jun 2026 at 1:41 PM
-28 Jun 2026 at 3:18 PM
-28 Jun 2026 at 3:52 PM
-28 Jun 2026 at 4:25 PM
-28 Jun 2026 at 5:57 PM
-28 Jun 2026 at 6:10 PM
-28 Jun 2026 at 6:21 PM
-28 Jun 2026 at 8:06 PM
-28 Jun 2026 at 8:16 PM
-28 Jun 2026 at 11:17 PM
-29 Jun 2026 at 12:12 PM
-29 Jun 2026 at 4:50 PM
-29 Jun 2026 at 5:36 PM
-29 Jun 2026 at 6:34 PM
-29 Jun 2026 at 9:50 PM
-29 Jun 2026 at 10:36 PM
 30 Jun 2026 at 8:54 AM
 30 Jun 2026 at 10:00 AM
 30 Jun 2026 at 10:14 AM
@@ -313,76 +318,150 @@ STEP_COUNT
 3 Jul 2026 at 10:36 PM
 3 Jul 2026 at 10:47 PM
 3 Jul 2026 at 11:09 PM
+4 Jul 2026 at 9:12 AM
+4 Jul 2026 at 10:21 AM
+4 Jul 2026 at 10:41 AM
+4 Jul 2026 at 10:51 AM
+4 Jul 2026 at 11:03 AM
+4 Jul 2026 at 11:24 AM
+4 Jul 2026 at 11:39 AM
+4 Jul 2026 at 11:49 AM
+4 Jul 2026 at 12:03 PM
+4 Jul 2026 at 12:37 PM
+4 Jul 2026 at 2:28 PM
+4 Jul 2026 at 2:38 PM
+4 Jul 2026 at 2:48 PM
+4 Jul 2026 at 2:58 PM
+4 Jul 2026 at 3:13 PM
+4 Jul 2026 at 3:31 PM
+4 Jul 2026 at 3:41 PM
+4 Jul 2026 at 4:16 PM
+4 Jul 2026 at 4:29 PM
+4 Jul 2026 at 4:47 PM
+4 Jul 2026 at 5:01 PM
+4 Jul 2026 at 5:14 PM
+4 Jul 2026 at 6:08 PM
+4 Jul 2026 at 6:36 PM
+4 Jul 2026 at 6:46 PM
+4 Jul 2026 at 7:56 PM
+4 Jul 2026 at 8:11 PM
+4 Jul 2026 at 8:44 PM
+4 Jul 2026 at 9:01 PM
+4 Jul 2026 at 9:13 PM
+4 Jul 2026 at 9:40 PM
+4 Jul 2026 at 10:29 PM
+4 Jul 2026 at 10:48 PM
+4 Jul 2026 at 11:52 PM
+5 Jul 2026 at 4:25 AM
+5 Jul 2026 at 4:28 AM
+5 Jul 2026 at 4:36 AM
+5 Jul 2026 at 4:38 AM
+5 Jul 2026 at 4:46 AM
+5 Jul 2026 at 4:49 AM
+5 Jul 2026 at 5:01 AM
+5 Jul 2026 at 5:07 AM
+5 Jul 2026 at 5:12 AM
+5 Jul 2026 at 5:17 AM
+5 Jul 2026 at 5:27 AM
+5 Jul 2026 at 5:38 AM
+5 Jul 2026 at 5:39 AM
+5 Jul 2026 at 8:15 AM
+5 Jul 2026 at 9:17 AM
+5 Jul 2026 at 9:36 AM
+5 Jul 2026 at 9:50 AM
+5 Jul 2026 at 10:08 AM
+5 Jul 2026 at 10:25 AM
+5 Jul 2026 at 10:43 AM
+5 Jul 2026 at 10:53 AM
+5 Jul 2026 at 11:03 AM
+5 Jul 2026 at 11:13 AM
+5 Jul 2026 at 12:10 PM
+5 Jul 2026 at 12:20 PM
+5 Jul 2026 at 12:54 PM
+5 Jul 2026 at 1:07 PM
+5 Jul 2026 at 1:19 PM
+5 Jul 2026 at 1:29 PM
+5 Jul 2026 at 1:39 PM
+5 Jul 2026 at 1:53 PM
+5 Jul 2026 at 2:03 PM
+5 Jul 2026 at 2:13 PM
+5 Jul 2026 at 2:34 PM
+5 Jul 2026 at 2:46 PM
+5 Jul 2026 at 3:06 PM
+5 Jul 2026 at 3:20 PM
+5 Jul 2026 at 3:30 PM
+5 Jul 2026 at 3:44 PM
+5 Jul 2026 at 4:24 PM
+5 Jul 2026 at 4:35 PM
+5 Jul 2026 at 4:56 PM
+5 Jul 2026 at 7:26 PM
+5 Jul 2026 at 7:54 PM
+5 Jul 2026 at 8:59 PM
+5 Jul 2026 at 9:13 PM
+5 Jul 2026 at 9:23 PM
+5 Jul 2026 at 9:34 PM
+5 Jul 2026 at 9:46 PM
+5 Jul 2026 at 10:11 PM
+5 Jul 2026 at 10:22 PM
+5 Jul 2026 at 10:32 PM
+5 Jul 2026 at 10:42 PM
+5 Jul 2026 at 10:53 PM
+5 Jul 2026 at 11:05 PM
+5 Jul 2026 at 11:26 PM
+5 Jul 2026 at 11:36 PM
+5 Jul 2026 at 11:47 PM
+5 Jul 2026 at 11:59 PM
+6 Jul 2026 at 12:59 AM
+6 Jul 2026 at 1:33 AM
+6 Jul 2026 at 1:44 AM
+6 Jul 2026 at 1:56 AM
+6 Jul 2026 at 3:12 AM
+6 Jul 2026 at 4:23 AM
+6 Jul 2026 at 1:32 PM
+6 Jul 2026 at 2:05 PM
+6 Jul 2026 at 2:19 PM
+6 Jul 2026 at 2:32 PM
+6 Jul 2026 at 2:42 PM
+6 Jul 2026 at 2:52 PM
+6 Jul 2026 at 3:21 PM
+6 Jul 2026 at 4:39 PM
+6 Jul 2026 at 4:49 PM
+6 Jul 2026 at 4:59 PM
+6 Jul 2026 at 5:11 PM
+6 Jul 2026 at 5:58 PM
+6 Jul 2026 at 6:32 PM
+6 Jul 2026 at 6:42 PM
+6 Jul 2026 at 6:53 PM
+6 Jul 2026 at 7:49 PM
+6 Jul 2026 at 8:00 PM
+6 Jul 2026 at 8:10 PM
+6 Jul 2026 at 8:20 PM
+6 Jul 2026 at 8:30 PM
+6 Jul 2026 at 8:43 PM
+6 Jul 2026 at 8:53 PM
+6 Jul 2026 at 9:04 PM
+6 Jul 2026 at 9:14 PM
+6 Jul 2026 at 9:24 PM
+6 Jul 2026 at 9:34 PM
+6 Jul 2026 at 9:46 PM
+6 Jul 2026 at 10:07 PM
+6 Jul 2026 at 10:18 PM
+6 Jul 2026 at 10:28 PM
+6 Jul 2026 at 10:39 PM
+6 Jul 2026 at 10:53 PM
+6 Jul 2026 at 11:04 PM
+6 Jul 2026 at 11:26 PM
+6 Jul 2026 at 11:38 PM
+6 Jul 2026 at 11:49 PM
+7 Jul 2026 at 12:00 AM
+7 Jul 2026 at 12:10 AM
+7 Jul 2026 at 12:45 AM
+7 Jul 2026 at 12:59 AM
+7 Jul 2026 at 1:12 AM
+7 Jul 2026 at 1:22 AM
+7 Jul 2026 at 1:51 AM
+7 Jul 2026 at 3:00 AM
 ===END_DATE===
-27 Jun 2026 at 1:54 AM
-27 Jun 2026 at 7:16 AM
-27 Jun 2026 at 7:45 AM
-27 Jun 2026 at 8:25 AM
-27 Jun 2026 at 8:35 AM
-27 Jun 2026 at 8:44 AM
-27 Jun 2026 at 8:55 AM
-27 Jun 2026 at 8:56 AM
-27 Jun 2026 at 9:18 AM
-27 Jun 2026 at 9:21 AM
-27 Jun 2026 at 9:46 AM
-27 Jun 2026 at 9:59 AM
-27 Jun 2026 at 10:14 AM
-27 Jun 2026 at 10:33 AM
-27 Jun 2026 at 10:44 AM
-27 Jun 2026 at 10:54 AM
-27 Jun 2026 at 10:58 AM
-27 Jun 2026 at 11:13 AM
-27 Jun 2026 at 11:53 AM
-27 Jun 2026 at 12:16 PM
-27 Jun 2026 at 2:03 PM
-27 Jun 2026 at 2:54 PM
-27 Jun 2026 at 3:23 PM
-27 Jun 2026 at 3:27 PM
-27 Jun 2026 at 3:42 PM
-27 Jun 2026 at 4:05 PM
-27 Jun 2026 at 4:18 PM
-27 Jun 2026 at 4:28 PM
-27 Jun 2026 at 4:29 PM
-27 Jun 2026 at 4:52 PM
-27 Jun 2026 at 5:03 PM
-27 Jun 2026 at 5:29 PM
-27 Jun 2026 at 5:39 PM
-27 Jun 2026 at 5:42 PM
-27 Jun 2026 at 5:58 PM
-27 Jun 2026 at 6:15 PM
-27 Jun 2026 at 6:27 PM
-27 Jun 2026 at 6:40 PM
-27 Jun 2026 at 7:03 PM
-27 Jun 2026 at 7:22 PM
-27 Jun 2026 at 7:42 PM
-27 Jun 2026 at 7:52 PM
-27 Jun 2026 at 8:39 PM
-27 Jun 2026 at 10:49 PM
-27 Jun 2026 at 11:21 PM
-27 Jun 2026 at 11:34 PM
-28 Jun 2026 at 10:20 AM
-28 Jun 2026 at 10:56 AM
-28 Jun 2026 at 11:34 AM
-28 Jun 2026 at 12:02 PM
-28 Jun 2026 at 12:22 PM
-28 Jun 2026 at 1:07 PM
-28 Jun 2026 at 1:26 PM
-28 Jun 2026 at 1:41 PM
-28 Jun 2026 at 3:18 PM
-28 Jun 2026 at 3:52 PM
-28 Jun 2026 at 4:34 PM
-28 Jun 2026 at 6:04 PM
-28 Jun 2026 at 6:20 PM
-28 Jun 2026 at 6:21 PM
-28 Jun 2026 at 8:06 PM
-28 Jun 2026 at 8:17 PM
-28 Jun 2026 at 11:18 PM
-29 Jun 2026 at 12:15 PM
-29 Jun 2026 at 4:51 PM
-29 Jun 2026 at 5:36 PM
-29 Jun 2026 at 6:34 PM
-29 Jun 2026 at 9:50 PM
-29 Jun 2026 at 10:36 PM
 30 Jun 2026 at 8:54 AM
 30 Jun 2026 at 10:00 AM
 30 Jun 2026 at 10:16 AM
@@ -470,3 +549,146 @@ STEP_COUNT
 3 Jul 2026 at 10:46 PM
 3 Jul 2026 at 10:47 PM
 3 Jul 2026 at 11:10 PM
+4 Jul 2026 at 9:13 AM
+4 Jul 2026 at 10:22 AM
+4 Jul 2026 at 10:51 AM
+4 Jul 2026 at 11:00 AM
+4 Jul 2026 at 11:09 AM
+4 Jul 2026 at 11:25 AM
+4 Jul 2026 at 11:49 AM
+4 Jul 2026 at 11:57 AM
+4 Jul 2026 at 12:03 PM
+4 Jul 2026 at 12:38 PM
+4 Jul 2026 at 2:38 PM
+4 Jul 2026 at 2:48 PM
+4 Jul 2026 at 2:58 PM
+4 Jul 2026 at 3:07 PM
+4 Jul 2026 at 3:14 PM
+4 Jul 2026 at 3:40 PM
+4 Jul 2026 at 3:45 PM
+4 Jul 2026 at 4:16 PM
+4 Jul 2026 at 4:29 PM
+4 Jul 2026 at 4:57 PM
+4 Jul 2026 at 5:07 PM
+4 Jul 2026 at 5:14 PM
+4 Jul 2026 at 6:10 PM
+4 Jul 2026 at 6:46 PM
+4 Jul 2026 at 6:49 PM
+4 Jul 2026 at 8:06 PM
+4 Jul 2026 at 8:11 PM
+4 Jul 2026 at 8:44 PM
+4 Jul 2026 at 9:01 PM
+4 Jul 2026 at 9:17 PM
+4 Jul 2026 at 9:40 PM
+4 Jul 2026 at 10:29 PM
+4 Jul 2026 at 10:51 PM
+4 Jul 2026 at 11:55 PM
+5 Jul 2026 at 4:32 AM
+5 Jul 2026 at 4:38 AM
+5 Jul 2026 at 4:46 AM
+5 Jul 2026 at 4:48 AM
+5 Jul 2026 at 4:55 AM
+5 Jul 2026 at 4:56 AM
+5 Jul 2026 at 5:09 AM
+5 Jul 2026 at 5:15 AM
+5 Jul 2026 at 5:12 AM
+5 Jul 2026 at 5:27 AM
+5 Jul 2026 at 5:31 AM
+5 Jul 2026 at 5:48 AM
+5 Jul 2026 at 5:47 AM
+5 Jul 2026 at 8:20 AM
+5 Jul 2026 at 9:23 AM
+5 Jul 2026 at 9:44 AM
+5 Jul 2026 at 9:51 AM
+5 Jul 2026 at 10:17 AM
+5 Jul 2026 at 10:25 AM
+5 Jul 2026 at 10:53 AM
+5 Jul 2026 at 11:03 AM
+5 Jul 2026 at 11:13 AM
+5 Jul 2026 at 11:16 AM
+5 Jul 2026 at 12:20 PM
+5 Jul 2026 at 12:28 PM
+5 Jul 2026 at 1:04 PM
+5 Jul 2026 at 1:17 PM
+5 Jul 2026 at 1:29 PM
+5 Jul 2026 at 1:39 PM
+5 Jul 2026 at 1:48 PM
+5 Jul 2026 at 2:02 PM
+5 Jul 2026 at 2:13 PM
+5 Jul 2026 at 2:17 PM
+5 Jul 2026 at 2:44 PM
+5 Jul 2026 at 2:54 PM
+5 Jul 2026 at 3:11 PM
+5 Jul 2026 at 3:30 PM
+5 Jul 2026 at 3:40 PM
+5 Jul 2026 at 3:49 PM
+5 Jul 2026 at 4:25 PM
+5 Jul 2026 at 4:35 PM
+5 Jul 2026 at 4:58 PM
+5 Jul 2026 at 7:26 PM
+5 Jul 2026 at 8:01 PM
+5 Jul 2026 at 9:00 PM
+5 Jul 2026 at 9:23 PM
+5 Jul 2026 at 9:23 PM
+5 Jul 2026 at 9:44 PM
+5 Jul 2026 at 9:49 PM
+5 Jul 2026 at 10:21 PM
+5 Jul 2026 at 10:32 PM
+5 Jul 2026 at 10:42 PM
+5 Jul 2026 at 10:50 PM
+5 Jul 2026 at 11:02 PM
+5 Jul 2026 at 11:15 PM
+5 Jul 2026 at 11:35 PM
+5 Jul 2026 at 11:44 PM
+5 Jul 2026 at 11:49 PM
+5 Jul 2026 at 11:59 PM
+6 Jul 2026 at 1:01 AM
+6 Jul 2026 at 1:43 AM
+6 Jul 2026 at 1:46 AM
+6 Jul 2026 at 1:57 AM
+6 Jul 2026 at 3:12 AM
+6 Jul 2026 at 4:24 AM
+6 Jul 2026 at 1:32 PM
+6 Jul 2026 at 2:06 PM
+6 Jul 2026 at 2:27 PM
+6 Jul 2026 at 2:42 PM
+6 Jul 2026 at 2:52 PM
+6 Jul 2026 at 2:53 PM
+6 Jul 2026 at 3:30 PM
+6 Jul 2026 at 4:39 PM
+6 Jul 2026 at 4:58 PM
+6 Jul 2026 at 5:07 PM
+6 Jul 2026 at 5:12 PM
+6 Jul 2026 at 5:59 PM
+6 Jul 2026 at 6:42 PM
+6 Jul 2026 at 6:52 PM
+6 Jul 2026 at 7:01 PM
+6 Jul 2026 at 7:50 PM
+6 Jul 2026 at 8:10 PM
+6 Jul 2026 at 8:19 PM
+6 Jul 2026 at 8:30 PM
+6 Jul 2026 at 8:38 PM
+6 Jul 2026 at 8:53 PM
+6 Jul 2026 at 9:01 PM
+6 Jul 2026 at 9:14 PM
+6 Jul 2026 at 9:24 PM
+6 Jul 2026 at 9:34 PM
+6 Jul 2026 at 9:44 PM
+6 Jul 2026 at 9:52 PM
+6 Jul 2026 at 10:16 PM
+6 Jul 2026 at 10:27 PM
+6 Jul 2026 at 10:37 PM
+6 Jul 2026 at 10:39 PM
+6 Jul 2026 at 11:01 PM
+6 Jul 2026 at 11:12 PM
+6 Jul 2026 at 11:34 PM
+6 Jul 2026 at 11:48 PM
+6 Jul 2026 at 11:58 PM
+7 Jul 2026 at 12:09 AM
+7 Jul 2026 at 12:14 AM
+7 Jul 2026 at 12:50 AM
+7 Jul 2026 at 1:07 AM
+7 Jul 2026 at 1:22 AM
+7 Jul 2026 at 1:24 AM
+7 Jul 2026 at 1:52 AM
+7 Jul 2026 at 3:05 AM
