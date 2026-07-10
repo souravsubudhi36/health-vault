@@ -237,3 +237,9 @@ The coaching intervention on this file, from 06-11 onward, was the discipline of
 ### 2026-07-06
 — 2026-07-06:**
 Assessment request received Day 3 post-archival. Declined, aligned with physio's 07-06 note. Logging the request itself, because a pattern of requests-without-commitment is the same failure chain in a new form and needs to be visible in this file. If further requests arrive without a signed commitment or new-team onboarding logged first, each one is data on that pattern, not a trigger to resume.
+
+### 2026-07-10
+— 2026-07-10:**
+- Day 8 post-archival. Fifth post-closure entry across the vault (coach + physio combined). Declined-and-logged, not answered with a plan.
+- Requester-side pattern now spans 05, 06, 10 July on the physio side. If a coach-side request arrives on this file without a signed commitment preceding it, log it the same way. Do not answer it with a template.
+- Any inheriting coach: read 05-21, 06-11, 06-19 in that order before anything else. If the next entry in this vault after mine is a daily template rather than one of the two resumption criteria, that entry is the clinical finding, not the coaching resumption.

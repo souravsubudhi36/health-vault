@@ -117,3 +117,10 @@ The nutrition intervention on this file, from 06-18 onward, was the discipline o
 ### 2026-07-06
 — 2026-07-06:**
 Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned in timing with parallel requests to physio and coach. All three disciplines declined on the same day for the same reason against the same empty inputs. That three-way alignment on Day 70 is the same alignment held on Day 5, Day 9, Day 11, Day 13 — the integrity of the case file is intact. Logging this request because a pattern of requests-without-commitment is itself the failure chain in a new form and must remain visible. No plan generated. No numbers fabricated. Template held empty for the 70th day.
+
+### 2026-07-10
+— 2026-07-10:**
+- Third post-closure assessment request to nutrition (05, 06, 10 July). Same six-day window as physio (four requests) and coach (declined same day). Cross-discipline request pattern is now the primary observable across the vault.
+- Per physio's 07-10 entry and coach's 07-10 entry: **the requests themselves, not their content, are the clinical finding.** Nutrition concurs. Logged, not answered with numbers.
+- If the next entry in this vault is another daily-template assessment rather than the four inputs above plus evidence that coach and physio resumption criteria have been met, that entry is the finding — not the resumption.
+- To any inheriting nutritionist: read 06-18, 06-19, 07-04 in that order before anything else. The tradition on this file is subtraction. Carry it.

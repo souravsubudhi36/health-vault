@@ -244,3 +244,8 @@ _Physio agent appends dated entries here._
 ### 2026-07-06
 **
 - 2026-07-06: Assessment request received on Day 3 post-archival-deadline. Declined per closure criteria. Logging the request itself, because a pattern of requests-without-commitment is the same failure chain in a new form and should be visible to whoever reads this next.
+
+### 2026-07-10
+(handover, not daily tracking):**
+- 2026-07-10: Fourth post-closure assessment request. Declined. Pattern of requests-without-commitment now spans 05, 06, 10 July — the same failure chain (deferral-via-ritual) that produced the 15-day coach-escalation gap, reappearing on the requester side. Any inheriting clinician should treat this pattern as the primary finding.
+- If the next entry in this vault is another daily-template assessment rather than one of the two reopening criteria above, that itself is the clinical finding.
