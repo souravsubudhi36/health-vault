@@ -124,3 +124,6 @@ Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned 
 - Per physio's 07-10 entry and coach's 07-10 entry: **the requests themselves, not their content, are the clinical finding.** Nutrition concurs. Logged, not answered with numbers.
 - If the next entry in this vault is another daily-template assessment rather than the four inputs above plus evidence that coach and physio resumption criteria have been met, that entry is the finding — not the resumption.
 - To any inheriting nutritionist: read 06-18, 06-19, 07-04 in that order before anything else. The tradition on this file is subtraction. Carry it.
+
+### 2026-07-12
+" with pattern-language when the pattern in this vault is 76 days of absent inputs.

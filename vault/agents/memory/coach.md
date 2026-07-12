@@ -243,3 +243,6 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 - Day 8 post-archival. Fifth post-closure entry across the vault (coach + physio combined). Declined-and-logged, not answered with a plan.
 - Requester-side pattern now spans 05, 06, 10 July on the physio side. If a coach-side request arrives on this file without a signed commitment preceding it, log it the same way. Do not answer it with a template.
 - Any inheriting coach: read 05-21, 06-11, 06-19 in that order before anything else. If the next entry in this vault after mine is a daily template rather than one of the two resumption criteria, that entry is the clinical finding, not the coaching resumption.
+
+### 2026-07-12
+** Sixth post-closure entry in this vault. First coach-side request post-archival. Declined-and-logged per the 07-10 protocol. If the next entry on this file is another daily-report request rather than one of the two resumption criteria, log it the same way. The pattern of requests-without-commitment is itself the finding.
