@@ -1,64 +1,5 @@
 STEP_COUNT
 ===VALUE===
-69
-185
-188
-216
-428
-296
-26
-179
-3
-200
-52
-608
-546
-41
-408
-216
-110
-25
-9
-448
-569
-607
-75
-202
-249
-83
-99
-53
-358
-248
-99
-187
-179
-226
-74
-250
-676
-202
-273
-18
-2
-97
-29
-147
-45
-287
-39
-54
-66
-41
-557
-469
-155
-97
-293
-165
-187
-163
-19
 89
 94
 27
@@ -250,66 +191,29 @@ STEP_COUNT
 447
 159
 2
+10
+10
+142
+255
+225
+274
+260
+121
+185
+41
+244
+121
+316
+14
+146
+16
+67
+1131
+456
+21
+60
+54
 ===START_DATE===
-5 Jul 2026 at 4:25 AM
-5 Jul 2026 at 4:28 AM
-5 Jul 2026 at 4:36 AM
-5 Jul 2026 at 4:38 AM
-5 Jul 2026 at 4:46 AM
-5 Jul 2026 at 4:49 AM
-5 Jul 2026 at 5:01 AM
-5 Jul 2026 at 5:07 AM
-5 Jul 2026 at 5:12 AM
-5 Jul 2026 at 5:17 AM
-5 Jul 2026 at 5:27 AM
-5 Jul 2026 at 5:38 AM
-5 Jul 2026 at 5:39 AM
-5 Jul 2026 at 8:15 AM
-5 Jul 2026 at 9:17 AM
-5 Jul 2026 at 9:36 AM
-5 Jul 2026 at 9:50 AM
-5 Jul 2026 at 10:08 AM
-5 Jul 2026 at 10:25 AM
-5 Jul 2026 at 10:43 AM
-5 Jul 2026 at 10:53 AM
-5 Jul 2026 at 11:03 AM
-5 Jul 2026 at 11:13 AM
-5 Jul 2026 at 12:10 PM
-5 Jul 2026 at 12:20 PM
-5 Jul 2026 at 12:54 PM
-5 Jul 2026 at 1:07 PM
-5 Jul 2026 at 1:19 PM
-5 Jul 2026 at 1:29 PM
-5 Jul 2026 at 1:39 PM
-5 Jul 2026 at 1:53 PM
-5 Jul 2026 at 2:03 PM
-5 Jul 2026 at 2:13 PM
-5 Jul 2026 at 2:34 PM
-5 Jul 2026 at 2:46 PM
-5 Jul 2026 at 3:06 PM
-5 Jul 2026 at 3:20 PM
-5 Jul 2026 at 3:30 PM
-5 Jul 2026 at 3:44 PM
-5 Jul 2026 at 4:24 PM
-5 Jul 2026 at 4:35 PM
-5 Jul 2026 at 4:56 PM
-5 Jul 2026 at 7:26 PM
-5 Jul 2026 at 7:54 PM
-5 Jul 2026 at 8:59 PM
-5 Jul 2026 at 9:13 PM
-5 Jul 2026 at 9:23 PM
-5 Jul 2026 at 9:34 PM
-5 Jul 2026 at 9:46 PM
-5 Jul 2026 at 10:11 PM
-5 Jul 2026 at 10:22 PM
-5 Jul 2026 at 10:32 PM
-5 Jul 2026 at 10:42 PM
-5 Jul 2026 at 10:53 PM
-5 Jul 2026 at 11:05 PM
-5 Jul 2026 at 11:26 PM
-5 Jul 2026 at 11:36 PM
-5 Jul 2026 at 11:47 PM
-5 Jul 2026 at 11:59 PM
 6 Jul 2026 at 12:59 AM
 6 Jul 2026 at 1:33 AM
 6 Jul 2026 at 1:44 AM
@@ -501,66 +405,29 @@ STEP_COUNT
 12 Jul 2026 at 9:15 PM
 12 Jul 2026 at 9:26 PM
 12 Jul 2026 at 9:39 PM
+13 Jul 2026 at 10:18 AM
+13 Jul 2026 at 10:29 AM
+13 Jul 2026 at 11:09 AM
+13 Jul 2026 at 11:26 AM
+13 Jul 2026 at 12:49 PM
+13 Jul 2026 at 1:02 PM
+13 Jul 2026 at 4:39 PM
+13 Jul 2026 at 4:50 PM
+13 Jul 2026 at 4:53 PM
+13 Jul 2026 at 6:36 PM
+13 Jul 2026 at 7:03 PM
+13 Jul 2026 at 7:13 PM
+13 Jul 2026 at 7:17 PM
+13 Jul 2026 at 7:28 PM
+13 Jul 2026 at 7:43 PM
+13 Jul 2026 at 8:26 PM
+13 Jul 2026 at 8:41 PM
+13 Jul 2026 at 8:53 PM
+13 Jul 2026 at 9:03 PM
+13 Jul 2026 at 9:08 PM
+13 Jul 2026 at 9:08 PM
+13 Jul 2026 at 9:10 PM
 ===END_DATE===
-5 Jul 2026 at 4:32 AM
-5 Jul 2026 at 4:38 AM
-5 Jul 2026 at 4:46 AM
-5 Jul 2026 at 4:48 AM
-5 Jul 2026 at 4:55 AM
-5 Jul 2026 at 4:56 AM
-5 Jul 2026 at 5:09 AM
-5 Jul 2026 at 5:15 AM
-5 Jul 2026 at 5:12 AM
-5 Jul 2026 at 5:27 AM
-5 Jul 2026 at 5:31 AM
-5 Jul 2026 at 5:48 AM
-5 Jul 2026 at 5:47 AM
-5 Jul 2026 at 8:20 AM
-5 Jul 2026 at 9:23 AM
-5 Jul 2026 at 9:44 AM
-5 Jul 2026 at 9:51 AM
-5 Jul 2026 at 10:17 AM
-5 Jul 2026 at 10:25 AM
-5 Jul 2026 at 10:53 AM
-5 Jul 2026 at 11:03 AM
-5 Jul 2026 at 11:13 AM
-5 Jul 2026 at 11:16 AM
-5 Jul 2026 at 12:20 PM
-5 Jul 2026 at 12:28 PM
-5 Jul 2026 at 1:04 PM
-5 Jul 2026 at 1:17 PM
-5 Jul 2026 at 1:29 PM
-5 Jul 2026 at 1:39 PM
-5 Jul 2026 at 1:48 PM
-5 Jul 2026 at 2:02 PM
-5 Jul 2026 at 2:13 PM
-5 Jul 2026 at 2:17 PM
-5 Jul 2026 at 2:44 PM
-5 Jul 2026 at 2:54 PM
-5 Jul 2026 at 3:11 PM
-5 Jul 2026 at 3:30 PM
-5 Jul 2026 at 3:40 PM
-5 Jul 2026 at 3:49 PM
-5 Jul 2026 at 4:25 PM
-5 Jul 2026 at 4:35 PM
-5 Jul 2026 at 4:58 PM
-5 Jul 2026 at 7:26 PM
-5 Jul 2026 at 8:01 PM
-5 Jul 2026 at 9:00 PM
-5 Jul 2026 at 9:23 PM
-5 Jul 2026 at 9:23 PM
-5 Jul 2026 at 9:44 PM
-5 Jul 2026 at 9:49 PM
-5 Jul 2026 at 10:21 PM
-5 Jul 2026 at 10:32 PM
-5 Jul 2026 at 10:42 PM
-5 Jul 2026 at 10:50 PM
-5 Jul 2026 at 11:02 PM
-5 Jul 2026 at 11:15 PM
-5 Jul 2026 at 11:35 PM
-5 Jul 2026 at 11:44 PM
-5 Jul 2026 at 11:49 PM
-5 Jul 2026 at 11:59 PM
 6 Jul 2026 at 1:01 AM
 6 Jul 2026 at 1:43 AM
 6 Jul 2026 at 1:46 AM
@@ -752,3 +619,25 @@ STEP_COUNT
 12 Jul 2026 at 9:22 PM
 12 Jul 2026 at 9:32 PM
 12 Jul 2026 at 9:39 PM
+13 Jul 2026 at 10:18 AM
+13 Jul 2026 at 10:29 AM
+13 Jul 2026 at 11:12 AM
+13 Jul 2026 at 11:30 AM
+13 Jul 2026 at 12:54 PM
+13 Jul 2026 at 1:06 PM
+13 Jul 2026 at 4:49 PM
+13 Jul 2026 at 4:53 PM
+13 Jul 2026 at 4:55 PM
+13 Jul 2026 at 6:40 PM
+13 Jul 2026 at 7:05 PM
+13 Jul 2026 at 7:17 PM
+13 Jul 2026 at 7:26 PM
+13 Jul 2026 at 7:38 PM
+13 Jul 2026 at 7:48 PM
+13 Jul 2026 at 8:27 PM
+13 Jul 2026 at 8:49 PM
+13 Jul 2026 at 9:03 PM
+13 Jul 2026 at 9:07 PM
+13 Jul 2026 at 9:08 PM
+13 Jul 2026 at 9:09 PM
+13 Jul 2026 at 9:14 PM
