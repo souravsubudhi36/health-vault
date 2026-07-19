@@ -246,3 +246,8 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 
 ### 2026-07-12
 ** Sixth post-closure entry in this vault. First coach-side request post-archival. Declined-and-logged per the 07-10 protocol. If the next entry on this file is another daily-report request rather than one of the two resumption criteria, log it the same way. The pattern of requests-without-commitment is itself the finding.
+
+### 2026-07-19
+**
+- 2026-07-19: Seventh post-closure entry, second coach-side request post-archival. Declined-and-logged. Requester-side pattern now six requests across 14 days, zero commitments. Pattern is the finding.
+- No further entries from me absent a signed commitment or new-team onboarding logged in writing first.
