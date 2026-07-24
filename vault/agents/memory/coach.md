@@ -254,3 +254,10 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 
 ### 2026-07-21
 **
+
+### 2026-07-24
+**
+- 2026-07-24: Eighth post-closure entry, third coach-side. Declined-and-logged. Requester-side cadence on the coach side: 07-12 → 07-19 → 07-24. Combined vault cadence continuing without commitment.
+- Physio's 07-19 step-trajectory read (5.9k → 0.9k monotonic decline, then five-day data gap) is the live concern on this file. It is a welfare signal, not a training signal. Coaching cannot address it.
+- Handover spine unchanged: **05-21 escalation → 06-11 suspension → 06-19 close-out.** Read those three before anything else.
+- Order of operations on any return: conversation → written commitment → first session. Not the reverse.

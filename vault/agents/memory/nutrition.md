@@ -145,3 +145,11 @@ Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned 
 
 ### 2026-07-21
 **
+
+### 2026-07-24
+**
+- 2026-07-24: 7th post-closure nutrition request declined. Cross-discipline alignment 3-for-3 on the day (physio 5th post-closure, coach 3rd post-closure, nutrition 7th). Combined vault post-closure requests: 15 across 20 days. Zero inputs provided in any of them.
+- Live concern on this file remains physio's 07-19/07-24 step-trajectory read. It is a welfare signal. Nutrition cannot address it. A calorie target cannot address it.
+- Baselines section of this vault remains blank. 88 days, zero food logs, zero weights, zero stated preferences. That blank is the accurate record. Do not fill it in retrospectively.
+- Tradition on this file, fifth restatement: subtraction is the discipline. Refusing to output is the output. No numbers fabricated today. Template held empty for the 88th day.
+- No further entries absent the four inputs above, in order, in writing, with coach/physio resumption logged first.
