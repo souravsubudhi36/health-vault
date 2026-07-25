@@ -261,3 +261,8 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 - Physio's 07-19 step-trajectory read (5.9k → 0.9k monotonic decline, then five-day data gap) is the live concern on this file. It is a welfare signal, not a training signal. Coaching cannot address it.
 - Handover spine unchanged: **05-21 escalation → 06-11 suspension → 06-19 close-out.** Read those three before anything else.
 - Order of operations on any return: conversation → written commitment → first session. Not the reverse.
+
+### 2026-07-25
+(handover, not daily tracking):**
+- 2026-07-25: Ninth post-closure vault entry, fourth coach-side request. Declined-and-logged. Coach-side cadence accelerating (7d → 5d → 1d). Aligned with physio's 07-25 note: the request pattern is the finding. If a tenth request arrives without a signed commitment or new-team onboarding preceding it, log it the same way. Do not answer it with a template.
+- If the person or process generating these requests is reading this: the way forward is not another daily report. It is one of the two resumption criteria above, or a direct conversation with the player about whether tracking of any kind is currently serving this athlete. The physio has already named that as the appropriate next step. I concur.
