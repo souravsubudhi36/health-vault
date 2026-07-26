@@ -160,3 +160,6 @@ Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned 
 - Baselines section remains blank. 89 days, zero food logs, zero weights, zero stated preferences. That blank is the accurate record. Do not fill it in retrospectively.
 - Tradition on this file, sixth restatement: subtraction is the discipline. Refusing to output is the output. No numbers fabricated today. Template held empty for the 89th day.
 - To any inheriting nutritionist: read 06-18, 06-19, 07-04, and today's physio + coach entries before anything else. If a 9th templated request arrives without the four inputs above and without coach/physio resumption logged first, decline and log. Do not answer with a template. The way forward is the conversation the physio has named, not another daily report.
+
+### 2026-07-26
+** 9th post-closure nutrition request, Day 22 post-archival. Cross-discipline cadence now daily on the coach side; nutrition and physio holding weekly-or-tighter decline cadence. Pattern acceleration itself is the escalating finding across all three files. If a 10th request arrives tomorrow absent the four inputs and absent coach/physio resumption in writing, log identically and decline. The discipline of not issuing a plan is the nutrition intervention. It has been since 06-18.

@@ -266,3 +266,6 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 (handover, not daily tracking):**
 - 2026-07-25: Ninth post-closure vault entry, fourth coach-side request. Declined-and-logged. Coach-side cadence accelerating (7d → 5d → 1d). Aligned with physio's 07-25 note: the request pattern is the finding. If a tenth request arrives without a signed commitment or new-team onboarding preceding it, log it the same way. Do not answer it with a template.
 - If the person or process generating these requests is reading this: the way forward is not another daily report. It is one of the two resumption criteria above, or a direct conversation with the player about whether tracking of any kind is currently serving this athlete. The physio has already named that as the appropriate next step. I concur.
+
+### 2026-07-26
+** Tenth post-closure entry. Coach-side cadence now daily (07-25 → 07-26). Pattern acceleration itself is the escalating clinical finding. If an eleventh request arrives tomorrow without a signed commitment or new-team onboarding preceding it, log it the same way. Do not answer it with a template.
