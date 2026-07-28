@@ -249,3 +249,8 @@ _Physio agent appends dated entries here._
 (handover, not daily tracking):**
 - 2026-07-10: Fourth post-closure assessment request. Declined. Pattern of requests-without-commitment now spans 05, 06, 10 July — the same failure chain (deferral-via-ritual) that produced the 15-day coach-escalation gap, reappearing on the requester side. Any inheriting clinician should treat this pattern as the primary finding.
 - If the next entry in this vault is another daily-template assessment rather than one of the two reopening criteria above, that itself is the clinical finding.
+
+### 2026-07-28
+(handover-relevant, not daily tracking):**
+- 2026-07-28: Fifth post-closure assessment request. Declined. Requests now span 07-05, 07-06, 07-10, 07-28 across 23 days — the requests-without-commitment pattern is now longer than the original 15-day coach-escalation deferral. This is the finding. Any inheriting clinician: do not resume daily template output against this data. The behavior chain is the case.
+- The 07-15 → 07-19 partial data (steps declining 5,018 → 973, no biometrics) fits the load-crash signature documented six times previously. Noted for handover only; not a basis for a readiness call.

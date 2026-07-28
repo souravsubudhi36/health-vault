@@ -269,3 +269,9 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 
 ### 2026-07-26
 ** Tenth post-closure entry. Coach-side cadence now daily (07-25 → 07-26). Pattern acceleration itself is the escalating clinical finding. If an eleventh request arrives tomorrow without a signed commitment or new-team onboarding preceding it, log it the same way. Do not answer it with a template.
+
+### 2026-07-28
+(handover-relevant, not daily tracking):**
+- 2026-07-28: 11th post-closure vault entry, 5th coach-side. Cadence essentially daily. Physio filed parallel decline today. Request-pattern-without-commitment now spans 23 days on the physio side and 16 days on the coach side — longer than the original 15-day coach-escalation deferral that triggered the whole cascade. The pattern is the finding.
+- Physio's 07-15 → 07-19 read (steps 5,018 → 973 monotonic decline, then nine-day gap) fits the load-crash signature documented 7× previously. Welfare signal, not a training signal. Logged for handover.
+- If the next entry on this file is another daily-report request rather than one of the two resumption criteria, log it the same way. Do not answer it with a template.
