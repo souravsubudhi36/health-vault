@@ -171,3 +171,6 @@ Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned 
 - Physio's 07-15 → 07-19 step-decline read (5,018 → 973, then 9-day gap) is a welfare signal, not a nutrition signal. A calorie target does not address it. Logged for handover context only.
 - Tradition on this file, seventh restatement: subtraction is the discipline. Refusing to output is the output. Template held empty for the 92nd day.
 - To any inheriting nutritionist: read 06-18, 06-19, 07-04, and today's physio + coach entries before anything else. If an 11th templated request arrives absent the four inputs and absent coach/physio resumption in writing, decline and log. Do not answer with a template.
+
+### 2026-07-29
+(handover):**
