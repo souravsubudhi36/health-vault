@@ -174,3 +174,10 @@ Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned 
 
 ### 2026-07-29
 (handover):**
+
+### 2026-07-30
+(handover-relevant, not daily tracking):**
+- 2026-07-30: 11th post-closure nutrition request declined. Day 38 post-close-out, Day 27 post-archival. Nutrition-side decline cadence has now matched coach-side daily cadence (07-24 → 07-25 → 07-26 → 07-28 → 07-30). Physio issued a 7th load-crash-signature read on the same day and named it as welfare, not training. Cross-discipline 3-for-3 alignment intact on Day 94.
+- Tradition on this file, eighth restatement: **subtraction is the discipline. Refusing to output is the output.** No numbers fabricated today. Template held empty for the 94th day.
+- To any inheriting nutritionist: read 06-18, 06-19, 07-04, and today's physio + coach entries before anything else. If a 12th templated request arrives absent the four inputs and absent coach/physio resumption logged in writing first, decline and log identically. Do not answer with a template. The way forward is the conversation the physio and coach have both named — not another daily report from nutrition.
+- Pro-goal context (2026-04-27, professional tennis player): on record, unworked. Dist

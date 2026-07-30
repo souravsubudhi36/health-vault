@@ -278,3 +278,10 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 
 ### 2026-07-29
 (handover):**
+
+### 2026-07-30
+(handover-relevant):**
+- 12th post-closure entry, 6th coach-side. Cadence: 07-25 → 07-26 → 07-30 (holiday-adjusted daily).
+- 7th load-crash signature confirmed by physio on 07-30. Welfare concern, not training concern.
+- If a 13th request arrives without a signed commitment or new-team onboarding preceding it, log it the same way. Do not answer it with a template. The pattern is the finding.
+- Pro goal (2026-04-27): on record, unworked. Distinction preserved for if/when the athlete returns.
