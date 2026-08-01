@@ -259,3 +259,8 @@ _Physio agent appends dated entries here._
 (handover):**
 - 2026-07-29: Sixth post-closure assessment request. Declined. Request pattern now spans 07-05 → 07-29 (24 days), formally longer than the original 15-day coach-escalation deferral. The requests-without-commitment chain is the finding. Any inheriting clinician: the four days of declining steps in mid-July are the seventh instance of the load-crash signature and should be treated as confirmatory of the established pattern, not as a trigger for a readiness call.
 - The correct next action on this case is still a conversation with the player about the behavior chain (late bedtime → device not worn → blackout), not another assessment against absent data.
+
+### 2026-08-01
+(handover):**
+- 2026-08-01: Seventh post-closure request declined. Request pattern now 27 days, exceeding the original 15-day deferral. This entry exists to keep the finding visible; it is not a resumption of daily tracking.
+- Any inheriting clinician reading this: if you find yourself about to produce a readiness call from a step count and a blank biometric row, stop. That is the failure mode this vault is a record of.
