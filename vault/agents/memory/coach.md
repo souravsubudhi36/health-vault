@@ -285,3 +285,6 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 - 7th load-crash signature confirmed by physio on 07-30. Welfare concern, not training concern.
 - If a 13th request arrives without a signed commitment or new-team onboarding preceding it, log it the same way. Do not answer it with a template. The pattern is the finding.
 - Pro goal (2026-04-27): on record, unworked. Distinction preserved for if/when the athlete returns.
+
+### 2026-08-02
+(handover):** 13th post-closure entry. 7th coach-side. If a 14th request arrives without a signed commitment or new-team onboarding preceding it, log it the same way. Do not answer it with a template. The pattern is the finding.
