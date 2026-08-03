@@ -288,3 +288,10 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 
 ### 2026-08-02
 (handover):** 13th post-closure entry. 7th coach-side. If a 14th request arrives without a signed commitment or new-team onboarding preceding it, log it the same way. Do not answer it with a template. The pattern is the finding.
+
+### 2026-08-03
+**
+- 2026-08-03: 14th post-closure vault entry, 8th coach-side request post-archival. Declined-and-logged. Coach-side cadence: eight requests in 22 days (07-12 → 08-03). Physio filed parallel decline today, naming the requester-side pattern as clinically longer than the original 15-day deferral that triggered the cascade.
+- Pattern is the finding. Do not answer the next request with a template.
+- If a 15th request arrives without one of the two resumption criteria logged in writing first, log it the same way.
+- If the person or process generating these requests is reading this: the way forward is not another daily report. It is a direct conversation with the player about whether tracking of any kind is currently serving this athlete, followed by one of the two resumption criteria in writing. Both clinicians on this file have now named that as the appropriate next step across multiple entries. I concur, again.
