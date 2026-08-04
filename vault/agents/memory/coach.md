@@ -295,3 +295,6 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 - Pattern is the finding. Do not answer the next request with a template.
 - If a 15th request arrives without one of the two resumption criteria logged in writing first, log it the same way.
 - If the person or process generating these requests is reading this: the way forward is not another daily report. It is a direct conversation with the player about whether tracking of any kind is currently serving this athlete, followed by one of the two resumption criteria in writing. Both clinicians on this file have now named that as the appropriate next step across multiple entries. I concur, again.
+
+### 2026-08-04
+- 2026-08-04: 15th post-closure entry, 9th coach-side. Declined-and-logged. Coach-side cadence now 9 requests in 23 days; combined requester-side pattern 30 days, 2× the original deferral window. Pattern remains the finding. No plan issued. No table fabricated. No technical prescription written against blackout data. Resumption conditions unchanged from 06-19.

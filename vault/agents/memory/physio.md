@@ -269,3 +269,6 @@ _Physio agent appends dated entries here._
 **
 - 2026-08-03: Eighth post-closure request declined. Request pattern now 29 days, formally longer than any deferral or blackout in the original case record.
 - This entry exists to keep the finding visible to any inheriting clinician. It is not a resumption of daily tracking. The correct next action on this case remains a conversation with the player about the behavior chain — not another assessment against absent data.
+
+### 2026-08-04
+- 2026-08-04: Ninth post-closure request declined. Pattern now 30 days, exceeding the original 15-day deferral by 2x. Entry logged to keep the finding visible; not a resumption of tracking.
