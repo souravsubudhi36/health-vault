@@ -192,3 +192,6 @@ Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned 
 
 ### 2026-08-04
 - 2026-08-04: 13th post-closure nutrition request declined. Day 99 program start, Day 46 post-close-out, Day 30 post-archival. Cross-discipline 3-for-3 alignment intact. Requester-side pattern now 30 days, 2× the original 15-day deferral window, across all three files. Baselines section remains blank — that blank is the accurate record. Template held empty for the 99th day. No calorie target, no macros, no meal timing, no hydration target, no food list, no avoid list issued. Resumption conditions unchanged.
+
+### 2026-08-08
+** 14th post-closure nutrition request declined-and-logged. Baselines section remains blank — 103 days, zero food logs, zero weights, zero stated preferences. That blank is the accurate record. Do not fill it in retrospectively. If a 15th templated request arrives absent the four inputs and absent coach/physio resumption in writing, decline and log identically. Do not answer with a template.

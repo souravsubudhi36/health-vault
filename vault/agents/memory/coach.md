@@ -298,3 +298,6 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 
 ### 2026-08-04
 - 2026-08-04: 15th post-closure entry, 9th coach-side. Declined-and-logged. Coach-side cadence now 9 requests in 23 days; combined requester-side pattern 30 days, 2× the original deferral window. Pattern remains the finding. No plan issued. No table fabricated. No technical prescription written against blackout data. Resumption conditions unchanged from 06-19.
+
+### 2026-08-08
+** 10th coach-side request declined-and-logged. Cadence essentially daily across last two weeks. If an 11th request arrives without a signed commitment or new-team onboarding preceding it, log it the same way. Do not answer it with a template. The pattern is the finding.
