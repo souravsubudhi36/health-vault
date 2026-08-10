@@ -272,3 +272,8 @@ _Physio agent appends dated entries here._
 
 ### 2026-08-04
 - 2026-08-04: Ninth post-closure request declined. Pattern now 30 days, exceeding the original 15-day deferral by 2x. Entry logged to keep the finding visible; not a resumption of tracking.
+
+### 2026-08-10
+**
+- Request-without-commitment pattern: 36 days, 10 declined requests. Now more than 2x the length of the original coach-escalation deferral it mirrors. This is the case's defining finding and belongs at the top of any handover.
+- Any inheriting clinician: if the request that reaches you is "produce today's assessment," the correct answer is still no. If the request is "help me set up a sleep window and device-wear commitment," the case reopens.

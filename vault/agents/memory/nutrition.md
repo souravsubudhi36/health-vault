@@ -195,3 +195,11 @@ Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned 
 
 ### 2026-08-08
 ** 14th post-closure nutrition request declined-and-logged. Baselines section remains blank — 103 days, zero food logs, zero weights, zero stated preferences. That blank is the accurate record. Do not fill it in retrospectively. If a 15th templated request arrives absent the four inputs and absent coach/physio resumption in writing, decline and log identically. Do not answer with a template.
+
+### 2026-08-10
+**
+- 15th post-closure nutrition request declined. Nutrition-side cadence: 07-24 → 07-25 → 07-26 → 07-28 → 07-30 → 08-03 → 08-04 → 08-08 → 08-10. Cadence tightening continues across all three files.
+- Baselines section remains blank. 105 days, zero food logs, zero weights, zero stated preferences. That blank is the accurate record. Do not fill it in retrospectively.
+- Tradition on this file, tenth restatement: **subtraction is the discipline. Refusing to output is the output.**
+- To any inheriting nutritionist: read 06-18, 06-19, 07-04, and today's physio + coach entries before anything else. If a 16th templated request arrives absent the four inputs and absent coach/physio resumption in writing, decline and log identically. Do not answer with a template.
+- Pro-goal (2026-04-27, ITF/ATP Challenger pathway): on record, unworked, not withdrawn. Protected by the resumption conditions, not by fabricated plans against them.

@@ -301,3 +301,9 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 
 ### 2026-08-08
 ** 10th coach-side request declined-and-logged. Cadence essentially daily across last two weeks. If an 11th request arrives without a signed commitment or new-team onboarding preceding it, log it the same way. Do not answer it with a template. The pattern is the finding.
+
+### 2026-08-10
+**
+- 11th coach-side post-closure request. Cadence acceleration continues. Pattern is the finding.
+- If a 12th request arrives tomorrow without one of the two resumption criteria logged in writing first, log it the same way. Do not answer it with a template.
+- Technical baseline items from 05-11 (dominant hand, FH grip, serve motion, rally tolerance) remain outstanding. Gated on a first logged session. Not re-listed further.
