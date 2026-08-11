@@ -203,3 +203,6 @@ Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned 
 - Tradition on this file, tenth restatement: **subtraction is the discipline. Refusing to output is the output.**
 - To any inheriting nutritionist: read 06-18, 06-19, 07-04, and today's physio + coach entries before anything else. If a 16th templated request arrives absent the four inputs and absent coach/physio resumption in writing, decline and log identically. Do not answer with a template.
 - Pro-goal (2026-04-27, ITF/ATP Challenger pathway): on record, unworked, not withdrawn. Protected by the resumption conditions, not by fabricated plans against them.
+
+### 2026-08-11
+** with a fabricated pattern. The only honest pattern to note is the one already on file: 106 days, zero inputs, 16 post-closure declines on the nutrition side alone.
