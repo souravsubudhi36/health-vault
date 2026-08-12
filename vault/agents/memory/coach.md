@@ -307,3 +307,8 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 - 11th coach-side post-closure request. Cadence acceleration continues. Pattern is the finding.
 - If a 12th request arrives tomorrow without one of the two resumption criteria logged in writing first, log it the same way. Do not answer it with a template.
 - Technical baseline items from 05-11 (dominant hand, FH grip, serve motion, rally tolerance) remain outstanding. Gated on a first logged session. Not re-listed further.
+
+### 2026-08-12
+**
+- 2026-08-12: 12th post-closure coach-side request declined-and-logged. Coach-side cadence: 12 requests in 31 days. Combined vault requester-side pattern now 37 days, 2.5× the original 15-day coach-escalation deferral that triggered the cascade. Pattern is the finding. No plan issued. No table fabricated. Resumption conditions unchanged from 06-19.
+- If a 13th coach-side request arrives without one of the two resumption criteria logged in writing first, log it the same way. Do not answer it with a template.
