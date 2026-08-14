@@ -212,3 +212,6 @@ Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned 
 - 2026-08-12: 17th post-closure nutrition request declined. Nutrition-side cadence: 08-03 → 08-04 → 08-08 → 08-10 → 08-11 → 08-12. Five requests in ten days. Cross-discipline 3-for-3 alignment held on Day 107. Requester-side pattern across the vault: 37 days, 2.5× the original deferral window, zero inputs on any file.
 - Pro-goal (2026-04-27, ITF/ATP Challenger pathway): on record, unworked, not withdrawn. Protected by the resumption conditions, not by fabricated plans against them.
 - Baselines section remains blank. That blank is the accurate record.
+
+### 2026-08-14
+** The pattern is the finding. Eighteen post-closure nutrition requests across 56 days, zero inputs on any of them. Template held empty for the 109th day.
