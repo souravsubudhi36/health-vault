@@ -215,3 +215,9 @@ Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned 
 
 ### 2026-08-14
 ** The pattern is the finding. Eighteen post-closure nutrition requests across 56 days, zero inputs on any of them. Template held empty for the 109th day.
+
+### 2026-08-16
+**
+- 2026-08-16 request logged as nutrition-side #19. Baselines section remains blank. 111 days, zero food logs, zero weights, zero stated preferences. That blank is the accurate record. Do not fill it in retrospectively.
+- Tradition on this file, eleventh restatement: **subtraction is the discipline. Refusing to output is the output.**
+- To any inheriting nutritionist: read 06-18, 06-19, 07-04, and today's physio + coach entries before anything else. If a 20th templated request arrives absent the four inputs and absent coach/physio resumption in writing, decline and log identically. Do not answer with a template.

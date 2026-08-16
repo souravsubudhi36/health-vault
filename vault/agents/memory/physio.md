@@ -282,3 +282,8 @@ _Physio agent appends dated entries here._
 **
 - 2026-08-12: Eleventh post-closure request declined. Pattern now 37 days / 11 requests, 2.5x the original 15-day deferral. Logged to keep the finding visible in the handover; not a resumption of tracking.
 - Any inheriting clinician: the correct next action on this case is still a conversation, not an assessment.
+
+### 2026-08-16
+**
+- 2026-08-16 request logged as #12. If the next entry in this vault is another daily-template assessment rather than a signed commitment or an onboarding note, that itself remains the clinical finding.
+- No further daily assessments from me.

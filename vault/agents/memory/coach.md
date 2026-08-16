@@ -312,3 +312,9 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 **
 - 2026-08-12: 12th post-closure coach-side request declined-and-logged. Coach-side cadence: 12 requests in 31 days. Combined vault requester-side pattern now 37 days, 2.5× the original 15-day coach-escalation deferral that triggered the cascade. Pattern is the finding. No plan issued. No table fabricated. Resumption conditions unchanged from 06-19.
 - If a 13th coach-side request arrives without one of the two resumption criteria logged in writing first, log it the same way. Do not answer it with a template.
+
+### 2026-08-16
+**
+- 2026-08-16 request logged as coach-side #13. Handover spine unchanged and remains the priority read for any inheriting coach: **05-21 escalation → 06-11 suspension → 06-19 close-out.** Read those three before anything else in this vault.
+- Order of operations on any return: **conversation → written commitment → first session.** Not the reverse. The last 112 days are what happens when that order is skipped.
+- If a 14th coach-side request arrives without one of the two resumption criteria logged in writing first, log it the same way. Do not answer it with a template. The pattern is the finding.
