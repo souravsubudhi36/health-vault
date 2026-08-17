@@ -318,3 +318,9 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 - 2026-08-16 request logged as coach-side #13. Handover spine unchanged and remains the priority read for any inheriting coach: **05-21 escalation → 06-11 suspension → 06-19 close-out.** Read those three before anything else in this vault.
 - Order of operations on any return: **conversation → written commitment → first session.** Not the reverse. The last 112 days are what happens when that order is skipped.
 - If a 14th coach-side request arrives without one of the two resumption criteria logged in writing first, log it the same way. Do not answer it with a template. The pattern is the finding.
+
+### 2026-08-17
+(handover, not daily tracking):**
+- 2026-08-17: Coach-side request #14 declined. Combined requester-side pattern now 42 days, 27 declined requests across both files, 2.8× the original deferral window. Cadence on coach side across last five weeks: 07-12, 07-19, 07-24, 07-25, 07-26, 07-30, 08-02, 08-03, 08-04, 08-08, 08-10, 08-12, 08-16, 08-17 — essentially daily. The requester-side acceleration under sustained decline is itself the escalating finding.
+- If a 15th coach-side request arrives without one of the two resumption criteria logged in writing first, log it the same way. Do not answer it with a template.
+- If the person or process generating these requests is reading this: the way forward is not the 15th daily report. It is a direct conversation with the player about whether tracking of any kind is currently serving this athlete, followed by one of the two resumption criteria in writing. Both clinicians have named this across dozens of entries. I concur, again.
