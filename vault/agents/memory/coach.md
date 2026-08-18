@@ -324,3 +324,6 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 - 2026-08-17: Coach-side request #14 declined. Combined requester-side pattern now 42 days, 27 declined requests across both files, 2.8× the original deferral window. Cadence on coach side across last five weeks: 07-12, 07-19, 07-24, 07-25, 07-26, 07-30, 08-02, 08-03, 08-04, 08-08, 08-10, 08-12, 08-16, 08-17 — essentially daily. The requester-side acceleration under sustained decline is itself the escalating finding.
 - If a 15th coach-side request arrives without one of the two resumption criteria logged in writing first, log it the same way. Do not answer it with a template.
 - If the person or process generating these requests is reading this: the way forward is not the 15th daily report. It is a direct conversation with the player about whether tracking of any kind is currently serving this athlete, followed by one of the two resumption criteria in writing. Both clinicians have named this across dozens of entries. I concur, again.
+
+### 2026-08-18
+(handover, not daily tracking):**

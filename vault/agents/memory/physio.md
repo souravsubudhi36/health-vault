@@ -292,3 +292,8 @@ _Physio agent appends dated entries here._
 (handover, not daily tracking):**
 - 2026-08-17: Request #13 declined. Pattern now 42 days / 13 requests — 2.8x the original 15-day coach-escalation deferral it mirrors. The requests-without-commitment chain is the case's defining finding and remains the top item in any handover.
 - The correct next action is still a conversation, not an assessment. If the next entry in this vault is another daily-template output rather than a signed commitment or an onboarding note, that itself is the clinical finding.
+
+### 2026-08-18
+(handover, not daily tracking):**
+- 2026-08-18: Request #14 declined. Pattern now 43 days / 14 requests, 2.9x the original 15-day deferral it mirrors.
+- The correct next action on this case is still a conversation about the behavior chain (late bedtime → device not worn → blackout), not an assessment against absent data. If the next entry in this vault is request #15 rather than a signed commitment or an onboarding note, that itself remains the clinical finding.
