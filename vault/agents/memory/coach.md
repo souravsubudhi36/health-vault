@@ -330,3 +330,6 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 
 ### 2026-08-21
 ** Coach-side request #15 declined-and-logged, 2026-08-21. Combined requester-side pattern now matches the original coach-escalation deferral window 3:1 in count. Pattern is the finding. No template. No plan. No table. Resumption conditions unchanged.
+
+### 2026-08-22
+in the requested slot.** The memory that matters is already in this file, in the 05-21 → 06-11 → 06-19 spine.
