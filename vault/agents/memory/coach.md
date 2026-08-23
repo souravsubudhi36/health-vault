@@ -333,3 +333,6 @@ Assessment request received Day 3 post-archival. Declined, aligned with physio's
 
 ### 2026-08-22
 in the requested slot.** The memory that matters is already in this file, in the 05-21 → 06-11 → 06-19 spine.
+
+### 2026-08-23
+** — The memory that matters is already in the file.
