@@ -233,3 +233,6 @@ Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned 
 
 ### 2026-08-21
 ** Nutrition-side request #21 declined-and-logged, 2026-08-21. Cross-discipline 3-for-3 on Day 116. Requester-side pattern now matches the original coach-escalation deferral window 3:1 in count across the vault. Pattern is the finding. Baselines blank. Resumption conditions unchanged. Next request triggers direct coach escalation per physio's 08-21 threshold.
+
+### 2026-08-26
+** Pattern acceleration on the nutrition file (11 requests in 24 days) is now the dominant observable, mirroring coach-side cadence. Cross-discipline 3-for-3 same-day decline alignment held on Day 121. Baselines blank across 121 days is the accurate record and the finding.
