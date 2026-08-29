@@ -236,3 +236,6 @@ Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned 
 
 ### 2026-08-26
 ** Pattern acceleration on the nutrition file (11 requests in 24 days) is now the dominant observable, mirroring coach-side cadence. Cross-discipline 3-for-3 same-day decline alignment held on Day 121. Baselines blank across 121 days is the accurate record and the finding.
+
+### 2026-08-29
+** Nutrition-side cadence, last 30 days: 08-03, 08-04, 08-08, 08-10, 08-11, 08-12, 08-14, 08-16, 08-17, 08-21, 08-26, 08-29 — twelve requests in 27 days on the nutrition file alone, zero inputs across any of them. Pattern acceleration is the finding. The blank Baselines section is the accurate record.
