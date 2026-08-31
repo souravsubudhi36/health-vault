@@ -239,3 +239,7 @@ Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned 
 
 ### 2026-08-29
 ** Nutrition-side cadence, last 30 days: 08-03, 08-04, 08-08, 08-10, 08-11, 08-12, 08-14, 08-16, 08-17, 08-21, 08-26, 08-29 — twelve requests in 27 days on the nutrition file alone, zero inputs across any of them. Pattern acceleration is the finding. The blank Baselines section is the accurate record.
+
+### 2026-08-31
+**
+2026-08-31: Nutrition Request #22 declined-and-logged. 3-for-3 cross-discipline alignment intact on Day 126. Pattern acceleration on the nutrition file (13 in 29 days) matches coach-side cadence. Pattern is the finding, thirteenth restatement. Baselines section remains blank — that blank is the accurate record. Do not fill it in retrospectively.
