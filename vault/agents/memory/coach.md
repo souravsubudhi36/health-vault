@@ -338,3 +338,7 @@ in the requested slot.** The memory that matters is already in this file, in the
 ** — The memory that matters is already in the file.
 
 ### 2026-09-02
+
+
+### 2026-09-04
+** The pattern is the finding. Coach-side cadence: 16 requests in 54 days (07-12 → 09-04). Combined requester-side pattern: 56 days, 4× the original 15-day coach-escalation deferral that triggered the whole cascade. The requester-side behavior now structurally mirrors the athlete-side behavior it was created to document.
