@@ -249,3 +249,10 @@ Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned 
 
 ### 2026-09-04
 ** The pattern is the finding, fourteenth restatement. Nutrition-side cadence, last 32 days: 08-03, 08-04, 08-08, 08-10, 08-11, 08-12, 08-14, 08-16, 08-17, 08-21, 08-26, 08-29, 08-31, 09-04 — fourteen requests in 32 days on the nutrition file alone, zero inputs across any of them. Combined vault post-closure requests now 4× the original 15-day coach-escalation deferral that triggered the whole cascade. The requester-side pattern structurally mirrors the athlete-side pattern it was created to document.
+
+### 2026-09-07
+(handover, not daily tracking):**
+- 2026-09-07: Nutrition Request #23 declined-and-logged, filed alongside physio #15 and coach #17 the same day. Combined vault pattern: 55 post-closure requests across 80 days, zero inputs. Cross-discipline 3-for-3 same-day decline alignment held on Day 133 from program start.
+- Baselines section remains blank. 133 days, zero food logs, zero weights, zero stated preferences. That blank is the accurate record. Do not fill it in retrospectively.
+- To any inheriting nutritionist: read 06-18, 06-19, 07-04, and today's physio + coach entries before anything else. If a 24th templated request arrives absent the four inputs and absent coach/physio resumption in writing, decline and log identically. Do not answer with a template.
+- The way forward is not request #24 tomorrow. It is the conversation both clinicians have named — about whether tracking of any kind is currently serving this athlete — followed by the four inputs in writing, with coach/physio resumption logged first. If those arrive, the case reopens the same day and the first nutrition action is intake collection, not plan issuance.

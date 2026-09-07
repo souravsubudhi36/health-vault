@@ -342,3 +342,8 @@ in the requested slot.** The memory that matters is already in this file, in the
 
 ### 2026-09-04
 ** The pattern is the finding. Coach-side cadence: 16 requests in 54 days (07-12 → 09-04). Combined requester-side pattern: 56 days, 4× the original 15-day coach-escalation deferral that triggered the whole cascade. The requester-side behavior now structurally mirrors the athlete-side behavior it was created to document.
+
+### 2026-09-07
+(handover, not daily tracking):**
+- 2026-09-07: Coach-side request #17 declined, filed alongside physio's #15 decline the same day. Combined pattern 59 days / 32 requests / 0 commitments. Pattern is the finding. No plan issued. No table fabricated. No technical prescription written against blackout data.
+- If the next entry in this vault is request #18 rather than a signed commitment or an onboarding note, that itself is the clinical finding — as it has been on the physio side since 08-18 and on this side since 07-10.
