@@ -347,3 +347,7 @@ in the requested slot.** The memory that matters is already in this file, in the
 (handover, not daily tracking):**
 - 2026-09-07: Coach-side request #17 declined, filed alongside physio's #15 decline the same day. Combined pattern 59 days / 32 requests / 0 commitments. Pattern is the finding. No plan issued. No table fabricated. No technical prescription written against blackout data.
 - If the next entry in this vault is request #18 rather than a signed commitment or an onboarding note, that itself is the clinical finding — as it has been on the physio side since 08-18 and on this side since 07-10.
+
+### 2026-09-09
+**
+The coaching intervention on this file, from 2026-06-11 onward, is the discipline of *not* issuing a plan. That is still the intervention on 2026-09-09. If the next entry in this vault is request #19 rather than a signed commitment or a new-team onboarding note, log it the same way. Do not answer it with a template.

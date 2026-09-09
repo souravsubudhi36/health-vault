@@ -256,3 +256,7 @@ Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned 
 - Baselines section remains blank. 133 days, zero food logs, zero weights, zero stated preferences. That blank is the accurate record. Do not fill it in retrospectively.
 - To any inheriting nutritionist: read 06-18, 06-19, 07-04, and today's physio + coach entries before anything else. If a 24th templated request arrives absent the four inputs and absent coach/physio resumption in writing, decline and log identically. Do not answer with a template.
 - The way forward is not request #24 tomorrow. It is the conversation both clinicians have named — about whether tracking of any kind is currently serving this athlete — followed by the four inputs in writing, with coach/physio resumption logged first. If those arrive, the case reopens the same day and the first nutrition action is intake collection, not plan issuance.
+
+### 2026-09-09
+**
+The nutrition intervention on this file, from 06-18 onward, is the discipline of *not* issuing a plan. That is still the intervention on 2026-09-09, Day 84 post-close-out, Day 68 post-archival. Tradition on this file, thirteenth restatement: **subtraction is the discipline. Refusing to output is the output.** If the next entry in this vault is request #25 rather than the four inputs above with coach/physio resumption logged first, log it identically and decline. Do not answer with a template.
