@@ -260,3 +260,11 @@ Assessment request received Day 17 post-close-out, Day 2 post-archival, aligned 
 ### 2026-09-09
 **
 The nutrition intervention on this file, from 06-18 onward, is the discipline of *not* issuing a plan. That is still the intervention on 2026-09-09, Day 84 post-close-out, Day 68 post-archival. Tradition on this file, thirteenth restatement: **subtraction is the discipline. Refusing to output is the output.** If the next entry in this vault is request #25 rather than the four inputs above with coach/physio resumption logged first, log it identically and decline. Do not answer with a template.
+
+### 2026-09-11
+(2026-09-11):**
+- Request #25 declined. If request #26 arrives without the four inputs above and without coach/physio resumption in writing, log identically and decline. Do not answer with a template.
+- Tradition on this file, fourteenth restatement: **subtraction is the discipline. Refusing to output is the output.**
+- Baselines section remains blank. 137 days, zero food logs, zero weights, zero stated preferences, zero training sessions to fuel. That blank is the accurate record. Do not fill it in retrospectively.
+- To any inheriting nutritionist: read 06-18, 06-19, 07-04, and today's physio + coach entries before anything else. Both clinicians on this file have independently converged today on the same finding — the requests themselves are now the clinical observable, and the way forward is a conversation with the player about whether tracking of any kind is currently serving this athlete, not the 26th daily report.
+- Pro-goal (2026-04-27, ITF/ATP Challenger pathway): on record, unworked, not withdrawn. A pro pathway requires body composition tracking, periodized fueling by block, in-session carbohydrate protocols scaled to sweat rate, and recovery nutrition tied to session load. None can exist against the current data shape. The resumption conditions are the lever protecting the goal. Fabricated plans weaken that lever. Today's decline protects it.

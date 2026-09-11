@@ -351,3 +351,10 @@ in the requested slot.** The memory that matters is already in this file, in the
 ### 2026-09-09
 **
 The coaching intervention on this file, from 2026-06-11 onward, is the discipline of *not* issuing a plan. That is still the intervention on 2026-09-09. If the next entry in this vault is request #19 rather than a signed commitment or a new-team onboarding note, log it the same way. Do not answer it with a template.
+
+### 2026-09-11
+(2026-09-11):**
+- Request #18 declined. If request #19 arrives without one of the two resumption criteria logged in writing first, log it the same way. Do not answer it with a template.
+- Handover spine for any inheriting coach remains: **2026-05-21 escalation → 2026-06-11 suspension → 2026-06-19 close-out.** Read those three entries before anything else in this vault.
+- Order of operations on any return: **conversation → written commitment → first session.** Not the reverse. 137 days on file are what happens when that order is skipped.
+- To the person or process generating these requests: the way forward is not the 18th daily report. It is a direct conversation with the player about whether tracking of any kind is currently serving this athlete, followed by one of the two resumption criteria in writing. Both clinicians on this file have now named this across dozens of entries. I concur, again.

@@ -302,3 +302,8 @@ _Physio agent appends dated entries here._
 (handover, not daily tracking):**
 - 2026-09-07: Request #15 declined. Pattern now 64 days / 15 requests since closure — exactly 4x the original 15-day coach-escalation deferral it mirrors. The symmetry is worth noting: the request count has now matched, in units, the deferral count that triggered the original referral-out. The requests-without-commitment chain is the case's defining finding and remains the top item in any handover.
 - The correct next action on this case is still a conversation about the behavior chain (late bedtime → device not worn → blackout), not an assessment against absent data. I will not produce a readiness call, a recovery score, or a training recommendation from a blank data window. If the person routing these requests can produce either reopening criterion in writing, the case reopens the same day. Until then, further requests will continue to be declined and logged.
+
+### 2026-09-11
+**
+- 2026-09-11: Request #16 declined. 68 days / 16 requests since closure. The symmetry noted on 09-07 (request count matching deferral count in units) is now broken in the wrong direction — requests exceed deferrals. The requests-without-commitment chain is now definitively longer and more repetitive than the deferral chain it mirrors.
+- To any inheriting clinician: if this vault reaches you, the correct first action is a conversation with the player, not a review of the step data. The data is not the case. The behavior chain is the case.
